@@ -1,0 +1,777 @@
+OBJECTID,SurveyType,SpeciesName,Stage,Activity,AirTempF,Number of Individuals,SiteSubClass,Alive_Dead,Lon,Lat
+1,Active,Northern Spring Peeper,Adult,,,1,Field,Alive,-75.15469392,44.58974989
+2,Active,Northern Leopard Frog,Unkown,Moving,66,3,Field,Alive,-75.15619548,44.58232335
+3,Active,Northern Spring Peeper,Jevenile,Moving ,66,1,Field,Alive,-75.1567688,44.58245051
+4,Active,Unidentified Species,Unkown,Basking,66,1,Field,Alive,-75.15730449,44.58251077
+5,Active,Northern Leopard Frog,Jevenile,Basking,51,1,Golf Course,Alive,-75.15549376,44.58949376
+6,Active,Northern Leopard Frog,Adult,Thermoregulating,51,1,Golf Course,Alive,-75.15330025,44.59093179
+7,Active,Bullfrog,Adult,Swimming,51,1,Golf Course,Alive,-75.15296294,44.59098316
+8,Active,Bullfrog,Jevenile,Swimming,51,1,Golf Course,Alive,-75.15286947,44.5909353
+9,Active,Bullfrog,Adult,Thermoregulating,51,2,Golf Course,Alive,-75.15269764,44.59088025
+10,Active,Bullfrog,Adult,Moving,51,1,Golf Course,Alive,-75.15268387,44.59088328
+11,Auditory,Unidentified Species,Unkown,Moving,51,1,Golf Course,Alive,-75.15260417,44.59085611
+12,Active,Bullfrog,Jevenile,Basking,51,1,Golf Course,Alive,-75.15258985,44.59084543
+13,Active,Bullfrog,Unkown,Moving,50,1,Golf Course,Alive,-75.15230094,44.59121708
+14,Active,Bullfrog,Unkown,Moving,50,1,Golf Course,Alive,-75.15232064,44.59119192
+15,Active,Bullfrog,Adult,Moving,50,2,Golf Course,Alive,-75.1523096,44.59118275
+16,Active,Bullfrog,Jevenile,Moving,50,1,Golf Course,Alive,-75.15224155,44.59124877
+17,Active,Bullfrog,Metamorph,Moving,50,1,Golf Course,Alive,-75.15215014,44.591283
+18,Active,Bullfrog,Unkown,Moving,50,1,Golf Course,Alive,-75.15211264,44.59127737
+19,Active,Bullfrog,Unkown,Moving,50,1,Golf Course,Alive,-75.15203365,44.59131192
+20,Active,Bullfrog,Jevenile,Moving,50,1,Golf Course,Alive,-75.15221274,44.59130081
+21,Other,Bullfrog,Jevenile,Moving,50,1,Golf Course,Alive,-75.15235916,44.59124603
+22,Active,Bullfrog,Adult,Moving,50,1,Golf Course,Alive,-75.15249936,44.59124407
+23,Active,Northern Leopard Frog,Metamorph,Moving,58,1,Golf Course,Alive,-75.1558245,44.59001874
+24,Active,Northern Leopard Frog,Unkown,Moving,57,1,Golf Course,Alive,-75.15449094,44.5908353
+25,Active,Unidentified Species,Adult,Basking,57,1,Golf Course,Alive,-75.15425993,44.5908537
+26,Active,Unidentified Species,Unkown,Moving,57,1,Golf Course,Alive,-75.15414954,44.59080114
+27,Active,Northern Leopard Frog,Metamorph,Moving,53,1,Golf Course,Alive,-75.15385433,44.59052898
+28,Active,Northern Leopard Frog,Metamorph,Basking,53,1,Golf Course,Alive,-75.15364604,44.59092021
+29,Active,Northern Leopard Frog,Adult,Thermoregulating ,53,1,Golf Course,Alive,-75.15348586,44.59078488
+30,Active,Northern Leopard Frog,Adult,Thermoregulating ,53,1,Golf Course,Alive,-75.15352668,44.59082562
+31,Active,Northern Leopard Frog,Jevenile,Thermoregulating,53,1,Golf Course,Alive,-75.15360883,44.59070601
+32,Active,Northern Leopard Frog,Metamorph,Thermoregulating ,53,1,Golf Course,Alive,-75.15371016,44.59065962
+33,Active,Northern Leopard Frog,Adult,Thermoregulating ,53,1,Golf Course,Alive,-75.15393388,44.59075752
+34,Active,American Toad,Adult,Thermoregulating ,53,1,Golf Course,Alive,-75.15388719,44.59065144
+35,Active,Northern Leopard Frog,Metamorph,Thermoregulating ,53,1,Golf Course,Alive,-75.15398333,44.59072034
+36,Active,Bullfrog,Adult,Moving,76,1,Golf Course,Alive,-75.15557882,44.59090391
+37,Active,Unidentified Species,Unkown,Moving,76,1,Golf Course,Alive,-75.15168903,44.59173879
+38,Active,Bullfrog,Tadpole,Moving,73,6,Golf Course,Alive,-75.15173882,44.59160526
+39,Active,Green Frog,Adult,Basking,76,1,Golf Course,Alive,-75.15142987,44.59166628
+40,Active,Green Frog,Adult,In water ,76,1,Golf Course,Alive,-75.15157839,44.59173112
+41,Active,Northern Leopard Frog,Adult,Basking,72,3,Golf Course,Alive,-75.15154679,44.59175224
+42,Active,Unidentified Species,Unkown,Dead,64,1,Road,Dead,-75.15941248,44.58383237
+43,Active,Northern Leopard Frog,Adult,Thermoregulating,68,1,Road,Alive,-75.16019608,44.58339531
+44,Active,Unidentified Species,Unkown,Thermoregulating,68,1,Road,Alive,-75.16102069,44.58278574
+45,Active,Northern Leopard Frog,Adult,Thermoregulating,68,1,Road,Alive,-75.16131414,44.5827344
+46,Active,American Toad,Adult,Dying,68,1,Road,Dead,-75.16272867,44.58215752
+47,Active,Unidentified Species,Metamorph,Moving,79,1,Little River Bridge,Alive,-75.15754916,44.58363805
+48,Active,Northern Leopard Frog,Adult,Moving ,75,1,Field,Alive,-75.15736057,44.58347335
+49,Active,Northern Spring Peeper,Adult,Moving,78,1,Little River Bridge ,Alive,-75.15771462,44.5836738
+50,Active,Northern Spring Peeper,Adult,Moving,78,1,Little River Bridge,Alive,-75.15766483,44.58350432
+51,Active,Northern Spring Peeper,Jevenile,Moving,79,1,Little River Bridge,Alive,-75.15765997,44.58348986
+52,Active,Northern Leopard Frog,Adult,Moving,78,1,Little River Bridge,Alive,-75.15760046,44.58354149
+53,Active,Pickeral Frog,Adult,Moving,78,1,Road,Alive,-75.155006,44.58158939
+54,Active,Northern Spring Peeper,Adult,Moving,78,1,Nature Trail,Alive,-75.15507591,44.5814995
+55,Active,Northern Leopard Frog,Adult,Moving,78,1,Nature Trail,Alive,-75.15512553,44.58142372
+56,Active,Pickeral Frog,Adult,Thermoregulating,65,1,Road,Alive,-75.16315564,44.5824363
+57,Active,Northern Leopard Frog,Metamorph,Thermoregulating,65,1,Road,Alive,-75.16363744,44.58247494
+58,Active,Northern Leopard Frog,Adult,Thermoregulating,65,1,Road,Alive,-75.16384883,44.58254518
+59,Active,Northern Leopard Frog,Adult,Dead,65,1,Road,Alive,-75.16395151,44.58275506
+60,Active,Northern Leopard Frog,Metamorph,Thermoregulating,65,1,Road,Alive,-75.16418645,44.58270201
+61,Active,Northern Leopard Frog,Metamorph,Thermoregulating,65,1,Road,Alive,-75.16417991,44.58281181
+62,Active,Northern Leopard Frog,Metamorph,Thermoregulating,65,1,Road,Alive,-75.16414546,44.58284785
+63,Active,American Toad,Adult,Thermoregulating,65,1,Road,Alive,-75.16450404,44.58324071
+64,Incidental,Northern Leopard Frog,Adult,Thermoregulating,65,1,Road,Alive,-75.16424487,44.58331133
+65,Incidental,Northern Leopard Frog,Metamorph,Basking,65,1,Road,Alive,-75.16401622,44.58347394
+66,Incidental,Northern Leopard Frog,Adult,Basking,65,1,Road,Alive,-75.16407397,44.58348446
+67,Incidental,Northern Leopard Frog,Adult,Basking,65,1,Road,Alive,-75.16377146,44.58358039
+68,Incidental,Northern Leopard Frog,Metamorph,Basking,65,1,Road,Alive,-75.1637552,44.58365784
+69,Incidental,Northern Leopard Frog,Adult,Basking,65,1,Road,Alive,-75.16371975,44.58364334
+70,Incidental,Northern Leopard Frog,Adult,Basking,65,1,Road,Alive,-75.16369871,44.58365654
+71,Incidental,Northern Leopard Frog,Adult,Basking,65,1,Road,Alive,-75.16349109,44.58376328
+72,Active,Green Frog,Adult,Moving,75,1,Nature Trail,Alive,-75.15523022,44.58124049
+73,Active,Northern Spring Peeper,Adult,Moving,75,1,Nature Trail,Alive,-75.15606975,44.58106665
+74,Active,Northern Leopard Frog,Jevenile,Basking,75,1,Nature Trail,Alive,-75.1556587,44.58105157
+75,Active,Northern Leopard Frog,Jevenile,Moving,75,1,Nature Trail,Alive,-75.15652799,44.58061852
+76,Active,Northern Spring Peeper,Jevenile,Moving,73,1,Nature Trail,Alive,-75.15700215,44.58027343
+77,Active,Northern Spring Peeper,Jevenile,Moving,75,1,Nature Trail,Alive,-75.15764739,44.57929946
+78,Active,Northern Spring Peeper,Adult,Moving,75,1,Little River Bridge,Alive,-75.15831568,44.58433505
+79,Active,Northern Leopard Frog,Jevenile,Moving,70,1,Facilities Pond,Alive,-75.15844376,44.58636523
+80,Active,Unidentified Species,Unkown,Moving,70,1,Facilities Pond,Alive,-75.15806205,44.58595959
+81,Active,Northern Leopard Frog,Jevenile,Moving,70,1,Facilities Pond,Alive,-75.1578157,44.58610062
+82,Active,Northern Leopard Frog,Jevenile,Moving,70,1,Facilities Pond,Alive,-75.15766106,44.58609408
+83,Active,Northern Leopard Frog,Jevenile,Basking,70,1,Facilities Pond,Alive,-75.15765091,44.58611013
+84,Active,Northern Leopard Frog,Jevenile,Basking,70,1,Facilities Pond,Alive,-75.15762895,44.58612517
+85,Active,Northern Leopard Frog,Jevenile,Basking,70,1,Facilities Pond,Alive,-75.15761278,44.5861385
+86,Active,Green Frog,Jevenile,Basking,70,1,Facilities,Alive,-75.15757095,44.58616486
+87,Active,Green Frog,Jevenile,Basking,70,1,Facilities,Alive,-75.15757497,44.58617538
+88,Active,Northern Leopard Frog,Jevenile,Basking,70,1,Facilities,Alive,-75.15759509,44.58619789
+89,Active,Northern Spring Peeper,Jevenile,Basking,70,1,Facilities,Alive,-75.15748068,44.58622555
+90,Active,Green Frog,Jevenile,Moving,62,2,Road,Alive,-75.15923903,44.58521607
+91,Active,Bullfrog,Adult,Moving,63,1,Nature Trail,Alive,-75.15875129,44.5839963
+92,Active,Reptile,Unkown,Moving,53,1,Nature Trail,Alive,-75.15872053,44.58350373
+93,Active,Wood Frog,Jevenile,Moving,53,1,Nature Trail,Alive,-75.16071064,44.58217927
+94,Active,American Toad,Jevenile,Moving,53,1,Nature Trail,Alive,-75.16068089,44.58202374
+95,Active,Gray Treefrog,Adult,Basking,53,1,Nature Trail,Alive,-75.16104206,44.58182295
+96,Incidental,American Toad,Adult,Thermoregulating,71,1,Road,Alive,-75.16143031,44.58947571
+97,Incidental,Northern Spring Peeper,Metamorph,Thermoregulating,64,1,Road,Alive,-75.15664509,44.58898273
+98,Incidental,Northern Spring Peeper,Metamorph,Moving,64,1,Golf Course,Alive,-75.15596892,44.58921156
+99,Incidental,Northern Spring Peeper,Metamorph,Thermoregulating,64,1,Road,Alive,-75.15563792,44.58909161
+100,Active,Northern Leopard Frog,Adult,Moving,77,1,Romoda Drive,Alive,-75.1584342,44.5934689
+101,Road,Unidentified Species,Unkown,Dead,71,1,Road,Alive,-75.15865616,44.58485247
+102,Active,Northern Leopard Frog,Adult,Dead,77,1,Romoda Drive,Alive,-75.15835826,44.59410646
+103,Active,Northern Leopard Frog,Adult,Basking,77,4,Romada Drive,Alive,-75.15829247,44.59400961
+104,Road,Unidentified Species,Unkown,Dead,71,1,Road,Dead,-75.15845281,44.58459937
+105,Road,Unidentified Species,Unkown,Dead,71,1,Road,Dead,-75.15843605,44.58462561
+106,Active,Northern Leopard Frog,Adult,Dead,77,4,Romada Drive,Dead,-75.15803221,44.59427658
+107,Auditory,Northern Spring Peeper,Unkown,Calling,70,1,Field,Alive,-75.15671097,44.59333956
+108,Road,Unidentified Species,Unkown,Dead,71,1,Road,Dead,-75.1584042,44.584671
+109,Road,Unidentified Species,Unkown,Dead,71,10,Road,Dead,-75.15829791,44.58449347
+110,Active,Northern Leopard Frog,Adult,Moving,77,1,Romoda Drive,Alive,-75.15838626,44.59426203
+111,Road,Northern Leopard Frog,Adult,Basking,71,1,Road,Alive,-75.15789558,44.58423057
+112,Auditory,Green Frog,Unkown,Calling,70,1,Field,Alive,-75.15687844,44.59346345
+113,Road,Unidentified Species,Unkown,Dead,71,10,Road,Dead,-75.1577432,44.58406469
+114,Active,Wood Frog,Adult,Basking,77,1,Romoda Drive,Alive,-75.15735973,44.59503857
+115,Active,Wood Frog,Adult,Basking,77,1,Field,Alive,-75.15821544,44.59449178
+116,Road,Gray Treefrog,Jevenile,Thermoregulating,71,1,Road,Alive,-75.15709402,44.58348965
+117,Active,Northern Leopard Frog,Adult,Basking,77,1,Romoda Drive,Alive,-75.15879001,44.59431978
+118,Active,Northern Leopard Frog,Adult,Basking,77,1,Field Behind Gaines,Alive,-75.15987279,44.59397034
+119,Road,Bullfrog,Unkown,Dead,71,2,Road,Dead,-75.15705178,44.58309222
+120,Auditory,Northern Spring Peeper,Unkown,Basking,70,1,Field,Alive,-75.1564425,44.59468758
+121,Active,Northern Leopard Frog,Adult,Moving,63,1,XC Trail,Alive,-75.16548053,44.58283343
+122,Active,American Toad,Jevenile,Basking,64,1,XC Trail,Alive,-75.16297435,44.58100999
+123,Active,Northern Leopard Frog,Adult,Basking,63,1,XC Trail,Alive,-75.16553753,44.58227893
+124,Auditory,Northern Spring Peeper,Unkown,Calling,74,1,Golf Course,Alive,-75.15739528,44.5885068
+125,Active,Wood Frog,Jevenile,Basking on dirty path,72,1,Trail,Alive,-75.16021497,44.58522588
+126,Active,Wood Frog,Jevenile,Basking in grass on edge of pathway,72,1,Trail,Alive,-75.16156877,44.58443479
+127,Active,Northern Leopard Frog,Adult,In grass (basking),70,1,Trail,Alive,-75.16322731,44.58369405
+128,Active,American Toad,Adult,Basking near path,70,1,Trail,Alive,-75.16088022,44.58483614
+129,Auditory,Northern Spring Peeper,Adult,Calling,66,4,Golf Course,Alive,-75.15451365,44.59041208
+130,Auditory,Northern Leopard Frog,Adult,Calling,66,3,Golf Course,Alive,-75.15458277,44.59034867
+131,Auditory,Gray Treefrog,Adult,Calling,66,5,Golf Course,Alive,-75.15458832,44.59036226
+132,Auditory,Northern Leopard Frog,Adult,Calling,66,2,Golf Course,Alive,-75.15322183,44.59114092
+133,Auditory,Northern Spring Peeper,Adult,Calling,66,5,Golf Course,Alive,-75.15305969,44.59128856
+134,Auditory,Northern Spring Peeper,Unkown,Calling,66,1,Golf Course,Alive,-75.15709256,44.5916706
+135,Active,Northern Leopard Frog,Adult,Basking,84,1,Little River,Alive,-75.15776405,44.5843918
+136,Active,Northern Leopard Frog,Adult,Basking,85,1,Little River,Alive,-75.15772303,44.58442011
+137,Active,Northern Leopard Frog,Adult,Moving,85,1,Little River,Alive,-75.1577637,44.58441089
+138,Active,Green Frog,Jevenile,Moving,85,1,Little River,Alive,-75.15770447,44.58449795
+139,Active,Pickeral Frog,Adult,Moving,85,1,Little River,Alive,-75.15760997,44.58453959
+140,Active,Mink Frog,Jevenile,Moving,85,1,Little River,Alive,-75.15758838,44.58463049
+141,Active,Pickeral Frog,Adult,Basking,85,1,Little River,Alive,-75.15750986,44.58461717
+142,Active,Northern Leopard Frog,Jevenile,Basking,85,1,Little River,Alive,-75.15750535,44.58465669
+143,Active,Green Frog,Jevenile,Basking,85,1,Little River,Alive,-75.15748744,44.5846728
+144,Active,Bullfrog,Jevenile,Basking,85,1,Little River,Alive,-75.15748896,44.58467327
+145,Active,Mink Frog,Adult,Moving,85,1,Little River,Alive,-75.15719166,44.58479491
+146,Active,Green Frog,Jevenile,Basking,85,1,Little River,Alive,-75.15714005,44.58477005
+147,Active,Green Frog,Jevenile,Basking,85,1,Little River,Alive,-75.15713546,44.58476373
+148,Active,Green Frog,Jevenile,Basking,85,1,Little River,Alive,-75.1571356,44.5847638
+149,Active,Northern Leopard Frog,Adult,Basking,85,1,Little River,Alive,-75.15711914,44.58472714
+150,Auditory,Bullfrog,Unkown,Calling,85,1,Little River,Alive,-75.15689544,44.58499002
+151,Auditory,Northern Spring Peeper,Unkown,Calling,85,1,Little River,Alive,-75.15704147,44.58509012
+152,Active,Northern Leopard Frog,Jevenile,Moving,85,1,Little River,Alive,-75.15733454,44.58468688
+153,Active,Northern Leopard Frog,Adult,Thermoregulating,85,1,Little River,Alive,-75.15774452,44.58462329
+154,Active,Northern Leopard Frog,Adult,Basking,85,1,Little River,Alive,-75.15734714,44.58454521
+155,Active,Green Frog,Jevenile,Moving,85,1,Little River,Alive,-75.15770553,44.58452958
+156,Auditory,Northern Leopard Frog,Unkown,Calling,85,1,Little River,Alive,-75.15766796,44.58477313
+157,Active,Northern Leopard Frog,Adult,Basking,85,1,Little River,Alive,-75.15770612,44.58453573
+158,Active,Green Frog,Adult,Basking,85,1,Little River,Alive,-75.15775398,44.58448663
+159,Active,Northern Leopard Frog,Adult,Basking,85,1,Little River,Alive,-75.15752748,44.58441143
+160,Active,Green Frog,Adult,Moving,73,1,Nature Trail,Alive,-75.16013129,44.5834555
+161,Active,Northern Leopard Frog,Adult,Moving,73,1,Nature Trail,Alive,-75.16187665,44.58211946
+162,Active,Western Chorus Frog,Adult,Basking,73,1,Nature Trail,Alive,-75.16209542,44.58202642
+163,Active,Green Frog,Adult,Basking,73,1,Nature Trail,Alive,-75.16228602,44.58193535
+164,Active,Wood Frog,Adult,Basking,73,1,Nature Trail,Alive,-75.16267226,44.58222168
+165,Active,American Toad,Adult,Basking,73,1,Nature Trail,Alive,-75.16427672,44.58334653
+166,Active,American Toad,Adult,Moving,73,1,Nature Trail,Alive,-75.16436306,44.58338157
+167,Active,Mink Frog,Adult,Basking,73,1,Nature Trail,Alive,-75.16404019,44.58346765
+168,Active,Bullfrog,Adult,Basking,72,1,Nature Trail,Alive,-75.16075582,44.58303531
+169,Active,Northern Leopard Frog,Adult,Basking in grass,78,1,Romoda Drive,Alive,-75.15771869,44.59373387
+170,Active,Northern Leopard Frog,Adult,Basking,78,1,Romoda Drive,Alive,-75.15705642,44.59441119
+171,Active,Northern Leopard Frog,Adult,Moving towards tall grass,78,1,Romoda Drive,Alive,-75.15793457,44.59477961
+172,Active,Northern Leopard Frog,Adult,Basking,73,1,XC Trail,Alive,-75.16561574,44.58202816
+173,Active,Northern Leopard Frog,Adult,Basking near path,73,1,XC Trail,Alive,-75.16577633,44.58137051
+174,Active,Wood Frog,Jevenile,Basking in grass,73,1,XC Trail,Alive,-75.16534007,44.58027716
+175,Active,Wood Frog,Jevenile,"Basking, moving, etc.",73,1,XC Trail,Alive,-75.16534529,44.58274113
+176,Auditory,Northern Spring Peeper,Adult,Calling,73,2,Golf Course,Alive,-75.15808828,44.59173175
+177,Active,Bullfrog,Adult,Basking,73,1,Golf Course,Alive,-75.15272697,44.59124241
+178,Active,Northern Leopard Frog,Adult,Basking,73,1,Golf Course,Alive,-75.15258472,44.59124266
+179,Active,Bullfrog,Jevenile,Basking,73,1,Golf Course,Alive,-75.15249822,44.59121902
+180,Active,Bullfrog,Jevenile,Basking,73,1,Golf Course,Alive,-75.15238515,44.59123311
+181,Active,Northern Leopard Frog,Jevenile,Basking,73,1,Golf Course,Alive,-75.15226068,44.59130318
+182,Active,Green Frog,Jevenile,Basking,73,1,Golf Course,Alive,-75.15238448,44.59133608
+183,Active,Northern Leopard Frog,Adult,Basking,73,1,Golf Course,Alive,-75.15215029,44.59122829
+184,Active,Bullfrog,Adult,Basking,73,1,Golf Course,Alive,-75.15211835,44.59119304
+185,Active,Bullfrog,Adult,Basking,73,1,Golf Course,Alive,-75.15222682,44.59120897
+186,Active,Bullfrog,Jevenile,Basking,73,1,Golf Course,Alive,-75.1522673,44.59119153
+187,Active,Green Frog,Adult,Basking,73,1,Golf Course,Alive,-75.15219983,44.59113542
+188,Active,Unidentified Species,Unkown,Basking,73,1,Golf Course,Alive,-75.15206957,44.59111689
+189,Active,Bullfrog,Adult,Basking,73,1,Golf Course,Alive,-75.15197628,44.59103437
+190,Active,Northern Leopard Frog,Unkown,Thermoregulating,73,1,Golf Course,Alive,-75.15205775,44.59104791
+191,Active,Bullfrog,Adult,Basking,73,1,Golf Course,Alive,-75.15217577,44.59103718
+192,Active,Bullfrog,Adult,Basking,73,1,Golf Course,Alive,-75.1522699,44.59103425
+193,Active,Bullfrog,Adult,Basking,73,1,Golf Course,Alive,-75.15239756,44.59103085
+194,Active,Green Frog,Adult,Basking,73,1,Golf Course,Alive,-75.15237928,44.59101078
+195,Active,Bullfrog,Adult,Basking,73,1,Golf Course,Alive,-75.15244533,44.59097452
+196,Active,Green Frog,Adult,Basking,73,1,Golf Course,Alive,-75.15248791,44.59092029
+197,Active,Bullfrog,Adult,Thermoregulating,73,1,Golf Course,Alive,-75.15253217,44.59093689
+198,Active,Wood Frog,Jevenile,Basking,73,1,Golf Course,Alive,-75.15258841,44.59089121
+199,Active,Green Frog,Jevenile,Basking,73,1,Golf Course,Alive,-75.15294112,44.59094997
+200,Active,Bullfrog,Adult,Basking,73,1,Golf Course,Alive,-75.15290676,44.59093865
+201,Active,Northern Leopard Frog,Jevenile,Basking,73,1,Golf Course,Alive,-75.15289041,44.59093086
+202,Active,Northern Leopard Frog,Adult,Basking,73,1,Golf Course,Alive,-75.15284699,44.59092356
+203,Active,Bullfrog,Adult,Basking,73,1,Golf Course,Alive,-75.15288144,44.59092021
+204,Active,Green Frog,Jevenile,Basking,73,1,Golf Course,Alive,-75.15310105,44.59101815
+205,Active,Pickeral Frog,Adult,Basking,73,1,Golf Course,Alive,-75.15304849,44.5911135
+206,Active,Green Frog,Jevenile,Basking,73,1,Golf Course,Alive,-75.15306006,44.59112297
+207,Active,Bullfrog,Adult,Basking,73,1,Golf Course,Alive,-75.15279234,44.59135552
+208,Active,Northern Leopard Frog,Adult,Basking ,73,1,Golf Course,Alive,-75.15268019,44.5912474
+209,Active,Northern Leopard Frog,Jevenile,Basking,73,1,Golf Course,Alive,-75.15776021,44.59148385
+210,Active,Northern Leopard Frog,Adult,Basking,70,1,Romoda Drive,Alive,-75.15845315,44.59368192
+211,Active,Wood Frog,Jevenile,Basking,70,1,Priest,Alive,-75.16582176,44.58889036
+212,Active,Pickeral Frog,Adult,Basking,65,1,Golf Course,Alive,-75.15514942,44.59190177
+213,Active,Northern Leopard Frog,Adult,Basking,65,1,Golf Course,Alive,-75.15442933,44.59160727
+214,Active,Northern Leopard Frog,Adult,Basking,65,1,Golf Course,Alive,-75.15449991,44.59178979
+215,Active,Bullfrog,Adult,Feeding,65,1,Golf Course,Alive,-75.15302218,44.59116215
+216,Active,Bullfrog,Adult,Feeding,65,1,Golf Course,Alive,-75.15186095,44.59155652
+217,Active,Green Frog,Adult,Feeding,65,1,Golf Course,Alive,-75.15175701,44.59172659
+218,Active,Northern Leopard Frog,Adult,Feeding,65,1,Golf Course,Alive,-75.15821393,44.59159592
+219,Active,Bullfrog,Jevenile,Basking,84,1,Little River,Alive,-75.15796641,44.58348022
+220,Active,Green Frog,Adult,Basking,84,1,Little River,Alive,-75.15810932,44.58351886
+221,Active,Bullfrog,Tadpole,Basking,72,4,Little River,Alive,-75.15814126,44.58328741
+222,Active,Bullfrog,Adult,Basking,84,1,Little River,Alive,-75.15834443,44.58374849
+223,Active,Green Frog,Jevenile,Basking,84,1,Little River,Alive,-75.1580509,44.58360981
+224,Active,Bullfrog,Adult,Basking,86,1,Little River,Alive,-75.15814126,44.5832291
+225,Active,Bullfrog,Adult,Basking,72,2,Little River,Alive,-75.15791454,44.58298714
+226,Active,Bullfrog,Adult,Basking,84,1,Little River,Alive,-75.15835047,44.58383474
+227,Active,Bullfrog,Jevenile,Swimming,84,1,Little River,Alive,-75.15823094,44.58367971
+228,Active,Northern Leopard Frog,Adult,Moving,84,1,Little River,Alive,-75.15838861,44.58389592
+229,Active,Green Frog,Jevenile,Basking,86,1,Little River,Alive,-75.15817663,44.5832379
+230,Active,Green Frog,Adult,Basking,84,1,Little River,Alive,-75.15824217,44.5836927
+231,Active,Bullfrog,Adult,Basking,85,1,Little River,Alive,-75.15795317,44.58274214
+232,Active,Unidentified Species,Jevenile,Basking,84,1,Little River,Alive,-75.15824494,44.5837546
+233,Active,Green Frog,Adult,Basking,84,1,Little River,Alive,-75.15836949,44.58398544
+234,Active,Bullfrog,Jevenile,Basking,86,1,Little River,Alive,-75.15819255,44.58321603
+235,Active,Green Frog,Jevenile,Basking,85,1,Little River,Alive,-75.15791466,44.58259243
+236,Active,Bullfrog,Jevenile,Basking,86,1,Little River,Alive,-75.1582358,44.58322193
+237,Active,Bullfrog,Jevenile,Basking,84,1,Little River,Alive,-75.15820513,44.58402689
+238,Active,Green Frog,Jevenile,Basking,84,2,Little River,Alive,-75.15835625,44.58403192
+239,Active,Green Frog,Jevenile,Basking,86,1,Little River,Alive,-75.15823262,44.58320153
+240,Active,Green Frog,Adult,Basking,84,1,Little River,Alive,-75.15835625,44.58403192
+241,Active,Green Frog,Jevenile,Basking,84,1,Little River,Alive,-75.15820362,44.58407861
+242,Active,Green Frog,Adult,Basking,86,1,Little River,Alive,-75.15821544,44.58319197
+243,Active,Bullfrog,Adult,Basking,84,1,Little River,Alive,-75.15834183,44.58412793
+244,Active,Bullfrog,Adult,Basking,86,1,Little River,Alive,-75.15820915,44.58316821
+245,Active,Pickeral Frog,Adult,Basking,84,1,Little River,Alive,-75.15813103,44.58408867
+246,Active,Green Frog,Jevenile,Basking,84,1,Little River,Alive,-75.15812474,44.58412785
+247,Active,Green Frog,Adult,Basking,85,1,Little River,Alive,-75.15783941,44.58218012
+248,Active,Bullfrog,Adult,Basking,84,1,Little River,Alive,-75.15810186,44.58438413
+249,Active,Bullfrog,Jevenile,Basking,86,2,Little River,Alive,-75.15823488,44.58307848
+250,Active,Bullfrog,Adult,Basking,86,1,Little River,Alive,-75.15823815,44.58306968
+251,Active,Bullfrog,Adult,Basking,86,4,Little River,Alive,-75.15823689,44.58306159
+252,Active,Bullfrog,Jevenile,Basking,85,5,Little River,Alive,-75.15774212,44.58212361
+253,Active,Green Frog,Jevenile,Basking,84,1,Little River,Alive,-75.15800362,44.58434591
+254,Active,Bullfrog,Adult,Basking,86,3,Little River,Alive,-75.15814721,44.58281093
+255,Active,Green Frog,Jevenile,Basking,84,1,Little River,Alive,-75.15758922,44.58475905
+256,Active,Green Frog,Adult,Basking,84,1,Little River,Alive,-75.15757514,44.58459703
+257,Active,Green Frog,Adult,Basking,86,1,Little River,Alive,-75.15817721,44.58279391
+258,Active,Green Frog,Adult,Basking,86,1,Little River,Alive,-75.15817721,44.58279391
+259,Active,Bullfrog,Jevenile,Basking,85,1,Little River,Alive,-75.15767782,44.58195091
+260,Active,Green Frog,Jevenile,Moving,84,2,Little River,Alive,-75.15728245,44.58490272
+261,Active,Bullfrog,Jevenile,Basking,84,1,Little River,Alive,-75.15736543,44.58470515
+262,Active,Bullfrog,Adult,Basking,85,1,Little River,Alive,-75.15767694,44.58166752
+263,Active,Bullfrog,Adult,Basking,86,2,Little River,Alive,-75.15819314,44.58282329
+264,Active,Green Frog,Jevenile,Basking,85,1,Little River,Alive,-75.15755749,44.58191715
+265,Active,Bullfrog,Adult,Basking,84,1,Little River,Alive,-75.15728747,44.58473311
+266,Active,Green Frog,Jevenile,Basking,85,2,Little River,Alive,-75.15758541,44.58188821
+267,Active,Bullfrog,Adult,Basking,85,1,Little River,Alive,-75.15728747,44.58473311
+268,Active,Bullfrog,Jevenile,Basking,86,1,Little River,Alive,-75.15816757,44.58278884
+269,Active,Green Frog,Jevenile,Basking,84,1,Little River,Alive,-75.15660158,44.58502195
+270,Active,Bullfrog,Adult,Basking,85,1,Little River,Alive,-75.15728907,44.58472766
+271,Active,Green Frog,Adult,Moving,84,1,Little River,Alive,-75.15661801,44.58503741
+272,Active,Green Frog,Jevenile,Basking,85,2,Little River,Alive,-75.1578534,44.581604
+273,Active,Bullfrog,Jevenile,Basking,86,3,Little River,Alive,-75.15802735,44.58265901
+274,Active,Bullfrog,Jevenile,Basking,85,1,Little River,Alive,-75.15728907,44.58472766
+275,Active,Bullfrog,Adult,Basking,86,1,Little River,Alive,-75.15809851,44.58263977
+276,Active,Green Frog,Jevenile,Basking,86,1,Little River,Alive,-75.15808032,44.5826461
+277,Active,Green Frog,Jevenile,Basking,84,5,Little River,Alive,-75.15660544,44.58501294
+278,Active,Bullfrog,Adult,Basking,85,1,Little River,Alive,-75.15715814,44.58474417
+279,Active,Bullfrog,Metamorph,Basking,85,2,Little River,Alive,-75.15760101,44.5816742
+280,Active,Green Frog,Adult,Basking,84,1,Little River,Alive,-75.15659303,44.58503456
+281,Active,Bullfrog,Adult,Basking,86,3,Little River,Alive,-75.15810119,44.58259438
+282,Active,Green Frog,Jevenile,Basking,85,3,Little River,Alive,-75.15737499,44.58165995
+283,Active,Green Frog,Jevenile,Basking,84,4,Little River,Alive,-75.15654861,44.58507421
+284,Active,Bullfrog,Jevenile,Basking,86,1,Little River,Alive,-75.15810228,44.58259467
+285,Active,Bullfrog,Adult,Basking,85,1,Little River,Alive,-75.1574402,44.58159308
+286,Active,Bullfrog,Adult,Basking,86,2,Little River,Alive,-75.15811753,44.58254832
+287,Active,Bullfrog,Adult,Basking,84,1,Little River,Alive,-75.15636773,44.58500967
+288,Active,Bullfrog,Adult,Basking,86,1,Little River,Alive,-75.15810228,44.58259467
+289,Active,Unidentified Species,Metamorph,Moving,84,1,Little River,Alive,-75.15632657,44.58513867
+290,Active,Green Frog,Jevenile,Basking,85,2,Little River,Alive,-75.15741766,44.58157609
+291,Active,Bullfrog,Jevenile,Basking,85,1,Little River,Alive,-75.1564606,44.58489366
+292,Active,Green Frog,Jevenile,Basking,86,1,Little River,Alive,-75.1581079,44.58249908
+293,Active,Green Frog,Jevenile,Basking,84,3,Little River,Alive,-75.1554313,44.58532047
+294,Active,Pickeral Frog,Jevenile,Basking,84,1,Little River,Alive,-75.1554313,44.58532047
+295,Active,Bullfrog,Jevenile,Basking,85,3,Little River,Alive,-75.15724352,44.58142176
+296,Active,Green Frog,Jevenile,Basking,85,1,Little River,Alive,-75.15600756,44.58507371
+297,Active,Bullfrog,Adult,Basking,86,1,Little River,Alive,-75.15806892,44.58216343
+298,Active,Bullfrog,Adult,Basking,86,1,Little River,Alive,-75.15807881,44.58225902
+299,Active,Green Frog,Jevenile,Basking,84,2,Little River,Alive,-75.15522737,44.58532156
+300,Active,Green Frog,Adult,Basking,85,1,Little River,Alive,-75.155738,44.58513024
+301,Active,Bullfrog,Jevenile,Basking,86,1,Little River,Alive,-75.15807127,44.58207387
+302,Active,Bullfrog,Jevenile,"Basking,",85,2,Little River,Alive,-75.15716498,44.5813071
+303,Active,Bullfrog,Adult,Basking,86,2,Little River,Alive,-75.15797764,44.58210245
+304,Active,Bullfrog,Jevenile,Basking,86,1,Little River,Alive,-75.15797764,44.58210245
+305,Active,Bullfrog,Adult,Basking,85,1,Little River,Alive,-75.15702145,44.58115885
+306,Active,Bullfrog,Adult,Basking,86,3,Little River,Alive,-75.15797764,44.58210245
+307,Active,Green Frog,Jevenile,Dead,85,1,Little River,Dead,-75.15565862,44.5851714
+308,Active,Green Frog,Adult,Basking,86,1,Little River,Alive,-75.15797764,44.58210245
+309,Active,Bullfrog,Adult,Basking,86,3,Little River,Alive,-75.15798594,44.58205149
+310,Active,Bullfrog,Adult,Basking,85,3,Little River,Alive,-75.15704461,44.58108213
+311,Active,Bullfrog,Jevenile,Basking,86,1,Little River,Alive,-75.15858382,44.58202756
+312,Active,Bullfrog,Adult,Basking,86,3,Little River,Alive,-75.15796708,44.58192123
+313,Active,Bullfrog,Adult,Basking,86,2,Little River,Alive,-75.15796708,44.58192123
+314,Active,Bullfrog,Adult,Basking,85,2,Little River,Alive,-75.15707274,44.58091711
+315,Active,Unidentified Species,Unkown,"Basking, moving, etc.",0,0,Lacrosse Field,Unknown,-75.16519692,44.58705443
+316,Incidental,Northern Spring Peeper,Jevenile,Moving,69,1,Urban,Alive,-75.15885347,44.59167718
+317,Active,Green Frog,Jevenile,Basking,67,1,Golf Course,Alive,-75.15823597,44.59224698
+318,Active,Northern Leopard Frog,Adult,Basking,67,1,Golf Course,Alive,-75.15718253,44.59239555
+319,Active,Wood Frog,Jevenile,Basking,73,1,XC Trail,Alive,-75.15891465,44.58340973
+320,Active,Wood Frog,Jevenile,Basking,73,1,XC Trail,Alive,-75.15871651,44.58367229
+321,Active,Wood Frog,Jevenile,Basking,73,1,XC Trail,Alive,-75.15883117,44.58355675
+322,Active,American Toad,Jevenile,Basking,73,1,XC Trail,Alive,-75.15889127,44.58336661
+323,Active,Wood Frog,Jevenile,Basking,73,1,XC Trail,Alive,-75.15875238,44.58340701
+324,Active,American Toad,Adult,Basking,73,1,XC Trail,Alive,-75.1589372,44.58324461
+325,Active,Green Frog,Adult,Moving,75,1,Field,Alive,-75.15778301,44.58377849
+326,Active,Northern Leopard Frog,Adult,Basking,75,2,Field,Alive,-75.15799575,44.58372925
+327,Active,Northern Spring Peeper,Adult,Basking,75,1,Field,Alive,-75.1580602,44.5836655
+328,Active,Green Frog,Adult,Basking,75,1,Little River,Alive,-75.15817436,44.58370226
+329,Active,Bullfrog,Jevenile,Moving,75,1,Field,Alive,-75.1579152,44.58360742
+330,Active,Green Frog,Adult,Moving,75,1,Road,Alive,-75.1577872,44.58358466
+331,Active,Northern Leopard Frog,Adult,Basking,75,1,Little River,Alive,-75.15809029,44.58341304
+332,Active,Northern Leopard Frog,Adult,Basking,79,1,Road,Alive,-75.15573875,44.58244652
+333,Active,Northern Leopard Frog,Adult,Basking,75,1,Little River,Alive,-75.1581296,44.58341158
+334,Active,Green Frog,Adult,Moving,75,1,Little River,Alive,-75.15805325,44.58336711
+335,Active,Northern Leopard Frog,Adult,Basking,75,1,Little River,Alive,-75.15805031,44.58340688
+336,Active,Northern Leopard Frog,Jevenile,Basking,79,1,Road,Alive,-75.15494029,44.58365934
+337,Road,Green Frog,Adult,Dead,75,1,Road,Dead,-75.15740667,44.58363789
+338,Road,Green Frog,Unkown,Dead,75,1,Field,Dead,-75.15701221,44.58322189
+339,Road,Green Frog,Unkown,Dead,75,1,Road,Dead,-75.15683678,44.58327767
+340,Active,Northern Leopard Frog,Jevenile,Basking,79,1,Road,Alive,-75.15405315,44.58318728
+341,Road,Northern Leopard Frog,Adult,Dead,75,1,Field,Dead,-75.15657409,44.58254832
+342,Active,Bullfrog,Adult,Basking,73,1,Golf Course,Alive,-75.15405566,44.59073132
+343,Road,Northern Leopard Frog,Adult,Dead,75,1,Road,Dead,-75.15719921,44.58350231
+344,Active,Northern Leopard Frog,Jevenile,Basking,73,1,Golf Course,Alive,-75.15412121,44.59072089
+345,Active,Northern Leopard Frog,Adult,Moving ,73,1,Golf Course,Alive,-75.15338989,44.59148389
+346,Active,Bullfrog,Adult,Basking,79,1,Facilities,Alive,-75.15814001,44.58604147
+347,Active,Bullfrog,Adult,Basking,79,2,Facilities,Alive,-75.1580583,44.58602241
+348,Active,Bullfrog,Adult,Basking,79,1,Facilities,Alive,-75.15816188,44.58599964
+349,Active,Northern Leopard Frog,Adult,Sitting,73,1,Golf Course,Alive,-75.15250141,44.59241919
+350,Active,Bullfrog,Adult,Basking,79,1,Facilities,Alive,-75.15791779,44.58583353
+351,Active,Mink Frog,Adult,Basking,79,1,Facilities,Alive,-75.15746693,44.5857596
+352,Active,Green Frog,Jevenile,Basking,79,1,Facilities,Alive,-75.15749283,44.58569351
+353,Active,Northern Leopard Frog,Jevenile,Basking,79,1,Facilities,Alive,-75.15770079,44.58610007
+354,Active,Northern Leopard Frog,Jevenile,Basking,79,1,Facilities,Alive,-75.15769618,44.58609881
+355,Active,Green Frog,Adult,Moving,73,1,Golf Course,Alive,-75.15150103,44.59179503
+356,Active,Green Frog,Adult,Basking,79,1,Facilities,Alive,-75.15658583,44.58663882
+357,Active,Bullfrog,Adult,Basking,79,1,Facilities,Alive,-75.1566243,44.58663957
+358,Active,Northern Leopard Frog,Adult,Basking,79,1,Facilities,Alive,-75.15659354,44.58645806
+359,Active,Green Frog,Jevenile,Moving,73,1,Field,Alive,-75.15894647,44.5865246
+360,Active,Northern Leopard Frog,Adult,Basking,73,1,Field,Alive,-75.15982632,44.58728876
+361,Active,Green Frog,Adult,Basking,73,2,Field,Alive,-75.16000157,44.58746961
+362,Active,Green Frog,Jevenile,Basking,73,1,Field,Alive,-75.16055237,44.58694489
+363,Active,Green Frog,Adult,Moving,73,1,Field,Alive,-75.15944201,44.58562796
+364,Active,Wood Frog,Adult,Basking,73,1,Field,Alive,-75.15867303,44.58514978
+365,Active,Green Frog,Jevenile,Basking,73,2,Field,Alive,-75.15831537,44.58500968
+366,Active,Northern Leopard Frog,Adult,Basking,52,1,Golf Course,Alive,-75.15441852,44.58867443
+367,Active,Northern Spring Peeper,Adult,Moving,53,1,Golf Course,Alive,-75.15395985,44.58859707
+368,Active,Northern Spring Peeper,Adult,Basking,53,1,Golf Course,Alive,-75.15393262,44.58858125
+369,Active,Northern Spring Peeper,Adult,Basking,53,1,Golf Course,Alive,-75.15380032,44.58853052
+370,Active,Gray Treefrog,Adult,Basking,53,1,Golf Course,Alive,-75.15312768,44.58852215
+371,Active,Unidentified Species,Unkown,Unknown,50,0,Kip Trail,Unknown,-75.15407913,44.58293681
+372,Auditory,Bullfrog,Adult,Calling,50,1,Kip Trail,Alive,-75.15156858,44.58279927
+373,Auditory,Green Frog,Adult,Calling,50,1,Kip Trail,Alive,-75.15161149,44.58275342
+374,Active,Unidentified Species,Unkown,"Basking, moving, etc.",60,0,Avenue of the Elms,Alive,-75.1509485,44.59334614
+375,Active,Bullfrog,Jevenile,Moving,68,1,Nature Trail,Alive,-75.16141581,44.58137402
+376,Active,Bullfrog,Adult,Moving,74,3,Kip Trail,Alive,-75.14958015,44.58381806
+377,Active,Green Frog,Adult,Basking,74,4,Kip Trail,Alive,-75.14965852,44.58388696
+378,Active,Green Frog,Jevenile,Moving,74,3,Kip Trail,Alive,-75.14966682,44.58394068
+379,Active,Bullfrog,Adult,Moving,74,6,Kip Trail,Alive,-75.14955626,44.58396859
+380,Incidental,Northern Leopard Frog,Adult,Moving,70,1,Chapel ,Alive,-75.16280293,44.59169378
+381,Active,Bullfrog,Adult,Thermoregulating,68,1,Road,Alive,-75.15952771,44.58545412
+382,Active,Bullfrog,Adult,Thermoregulating,68,1,Road,Alive,-75.15893276,44.58504613
+383,Active,Bullfrog,Jevenile,Thermoregulating,94,1,Road,Alive,-75.15896637,44.58503461
+384,Active,Northern Leopard Frog,Adult,Thermoregulating,68,1,Road,Alive,-75.1589548,44.58504362
+385,Active,Wood Frog,Adult,Thermoregulating,68,1,Road,Alive,-75.159004,44.58502715
+386,Road,Northern Leopard Frog,Adult,Basking,68,1,Road,Alive,-75.15867233,44.58481517
+387,Road,Northern Leopard Frog,Adult,Basking,68,1,Road,Alive,-75.15880309,44.5847536
+388,Road,Bullfrog,Adult,Basking,68,1,Road,Alive,-75.15881617,44.58478939
+389,Road,Wood Frog,Adult,Basking,68,1,Road,Alive,-75.15831032,44.58464824
+390,Road,Northern Spring Peeper,Adult,Basking,68,1,Road,Alive,-75.1585767,44.58466065
+391,Road,Unidentified Species,Unkown,Basking,68,4,Road,Alive,-75.15794403,44.58419499
+392,Road,Gray Treefrog,Unkown,Basking,68,1,Road,Alive,-75.15794931,44.58411654
+393,Road,Northern Leopard Frog,Unkown,Basking,68,3,Road,Alive,-75.15794931,44.58411654
+394,Active,Green Frog,Adult,Basking near stream,67,1,Golf Course,Alive,-75.15506898,44.59183213
+395,Road,Northern Spring Peeper,Unkown,Basking,68,3,Road,Alive,-75.1579442,44.58410296
+396,Road,Wood Frog,Unkown,Basking,68,1,Road,Alive,-75.1579442,44.58410296
+397,Road,Green Frog,Unkown,Basking,68,1,Road,Alive,-75.1579592,44.58406964
+398,Road,Bullfrog,Unkown,Basking,68,1,Road,Alive,-75.15796046,44.58407031
+399,Road,Bullfrog,Jevenile,Basking,68,2,Road,Alive,-75.15796046,44.58407031
+400,Active,Green Frog,Adult,Basking near water,67,1,Golf Course,Alive,-75.15521251,44.59204414
+401,Road,Unidentified Species,Unkown,Basking,68,5,Road,Alive,-75.15689285,44.58320194
+402,Active,Bullfrog,Adult,Sitting IN water at night?,67,1,Golf Course,Alive,-75.15528762,44.59219782
+403,Road,Northern Leopard Frog,Unkown,Basking,68,1,Road,Alive,-75.15688816,44.58323627
+404,Road,Bullfrog,Unkown,Basking,68,2,Road,Alive,-75.15696963,44.58327164
+405,Active,Green Frog,Jevenile,"Basking, moving, etc.",67,1,Golf Course,Alive,-75.15490049,44.59157169
+406,Road,Wood Frog,Adult,Basking,68,1,Road,Alive,-75.15698715,44.58326925
+407,Road,Northern Leopard Frog,Adult,Basking,68,1,Road,Alive,-75.15668917,44.58304646
+408,Road,Northern Leopard Frog,Adult,Basking,68,2,Road,Alive,-75.15618492,44.5825697
+409,Road,Northern Spring Peeper,Adult,Basking,68,1,Road,Alive,-75.15595584,44.58253977
+410,Road,Wood Frog,Adult,Basking,68,1,Road,Alive,-75.15595584,44.58253977
+411,Active,Pickeral Frog,Jevenile,"Basking, moving, etc.",67,1,Golf Course,Alive,-75.15478394,44.5913984
+412,Road,Bullfrog,Adult,Basking,68,2,Road,Alive,-75.15595584,44.58253977
+413,Road,Unidentified Species,Unkown,Basking,68,1,Road,Alive,-75.15595584,44.58253977
+414,Active,Northern Leopard Frog,Adult,Basking 10 feet from stream,67,1,Golf Course ,Alive,-75.1548351,44.59144615
+415,Road,Bullfrog,Adult,Basking,68,4,Road,Alive,-75.15545729,44.5818908
+416,Road,Northern Leopard Frog,Unkown,Basking,68,3,Road,Alive,-75.1552868,44.58190145
+417,Road,American Toad,Unkown,Basking,68,1,Road,Alive,-75.1552868,44.58190145
+418,Active,American Toad,Adult,Basking,66,1,Golf Course,Alive,-75.15590192,44.589252
+419,Auditory,Northern Spring Peeper,Unkown,Calling,66,2,Golf Course,Alive,-75.15449653,44.5896023
+420,Active,Northern Leopard Frog,Adult,Basking,66,1,Golf Course,Alive,-75.15523966,44.59028024
+421,Active,Northern Spring Peeper,Adult,Moving,66,1,Golf Course,Alive,-75.15494675,44.5903794
+422,Active,Northern Spring Peeper,Adult,Moving,66,1,Golf Course,Alive,-75.15480696,44.59040561
+423,Active,Wood Frog,Adult,Basking,66,1,Golf Course,Alive,-75.15416107,44.59064687
+424,Active,Blue Spotted Salamander,Adult,Basking,66,1,Golf Course,Alive,-75.15416563,44.59063614
+425,Active,Blue Spotted Salamander,Adult,Basking,66,1,Golf Course,Alive,-75.15409407,44.59068808
+426,Active,Blue Spotted Salamander,Adult,Basking,66,1,Golf Course,Alive,-75.1540485,44.59064414
+427,Active,Blue Spotted Salamander,Adult,Basking,66,1,Golf Course,Alive,-75.15407735,44.59066182
+428,Active,Northern Leopard Frog,Adult,Basking,66,1,Golf Course,Alive,-75.15332408,44.59088216
+429,Active,Northern Leopard Frog,Adult,Basking,66,1,Golf Course,Alive,-75.15333229,44.59081605
+430,Auditory,Green Frog,Adult,Basking,66,1,Golf Course,Alive,-75.15326162,44.59081699
+431,Active,Wood Frog,Adult,Moving,66,1,Golf Course,Alive,-75.15324471,44.59092498
+432,Active,Northern Leopard Frog,Jevenile,Basking,66,1,Golf Course,Alive,-75.15314607,44.59096005
+433,Active,Bullfrog,Adult,Basking,66,1,Golf Course,Alive,-75.15294245,44.59133995
+434,Active,Bullfrog,Jevenile,Basking,66,2,Golf Course,Alive,-75.15267875,44.59150124
+435,Active,Blue Spotted Salamander,Adult,Basking,66,1,Golf Course,Alive,-75.15263626,44.59153417
+436,Active,Bullfrog,Jevenile,Basking,66,1,Golf Course,Alive,-75.15262285,44.59150784
+437,Active,Green Frog,Jevenile,Basking,66,1,Golf Course,Alive,-75.15242296,44.59153837
+438,Active,Bullfrog,Adult,Basking,66,1,Golf Course,Alive,-75.15236578,44.59154599
+439,Active,Bullfrog,Adult,Basking,66,1,Golf Course,Alive,-75.15237733,44.59148508
+440,Active,Jefferson Salamander Complex,Adult,Basking,66,1,Golf Course,Alive,-75.15593132,44.58932289
+441,Incidental,Green Frog,Unkown,Dead,64,1,Road,Alive,-75.16507812,44.59116664
+442,Road,Wood Frog,Adult,"Basking near woods, I did stray 15 feet from road",65,1,Road,Alive,-75.1556255,44.58212812
+443,Road,Northern Leopard Frog,Adult,"Basking but not moving, would not move so didnt touch",65,1,Road,Alive,-75.15434573,44.58096219
+444,Active,Bullfrog,Adult,Moving,64,1,Nature Trail,Alive,-75.16565731,44.58028961
+445,Auditory,Northern Spring Peeper,Unkown,Calling,73,1,Saddlemire Trail,Alive,-75.15494251,44.59237078
+446,Active,Green Frog,Adult,Moving,73,1,Saddlemire Trail,Alive,-75.15541113,44.59252783
+447,Active,Green Frog,Adult,Basking,73,1,Saddlemire Trail,Alive,-75.13785475,44.58746211
+448,Active,Pickeral Frog,Adult,Basking,73,1,Saddlemire Trail,Alive,-75.13785266,44.58746058
+449,Active,American Toad,Jevenile,"Basking near path, small!!",60,1,Nature Trail,Alive,-75.15619797,44.58170785
+450,Active,Wood Frog,Adult,Basking in grass,60,1,Nature Trail,Alive,-75.1578354,44.57871291
+451,Active,Northern Leopard Frog,Adult,Basking,60,1,Nature Trail,Alive,-75.1566406,44.58057842
+452,Active,Northern Leopard Frog,Jevenile,Basking,61,1,Kip Trail,Alive,-75.15399305,44.58303502
+453,Active,Bullfrog,Adult,Basking,61,1,Kip Trail,Alive,-75.15256444,44.58274144
+454,Active,Green Frog,Adult,Basking,61,1,Kip Trail,Alive,-75.15249135,44.5828191
+455,Active,Bullfrog,Jevenile,Basking,61,1,Kip Trail,Alive,-75.15252655,44.582888
+456,Active,Green Frog,Adult,Basking,61,1,Kip Trail,Alive,-75.15278128,44.58281734
+457,Active,Bullfrog,Jevenile,Basking,61,1,Kip Trail,Alive,-75.15252588,44.58287526
+458,Active,Bullfrog,Adult,Basking,61,1,Kip Trail,Alive,-75.15244659,44.5830763
+459,Active,Green Frog,Adult,Basking,61,1,Kip Trail,Alive,-75.15239504,44.58313162
+460,Active,Bullfrog,Adult,Basking,61,1,Kip Trail,Alive,-75.1523942,44.58315186
+461,Active,Green Frog,Adult,Basking,61,1,Kip Trail,Alive,-75.15211291,44.58346128
+462,Active,Green Frog,Metamorph,Basking,61,1,Kip Trail,Alive,-75.15219631,44.58330152
+463,Active,Green Frog,Jevenile,Basking,61,1,Kip Trail,Alive,-75.15213973,44.58317433
+464,Active,Bullfrog,Adult,Basking,61,1,Kip Trail,Alive,-75.15202456,44.583168
+465,Active,Bullfrog,Adult,Basking,61,1,Kip Trail,Alive,-75.15205247,44.58298422
+466,Active,Bullfrog,Jevenile,Basking,61,1,Kip Trail,Alive,-75.15177126,44.58314348
+467,Active,Bullfrog,Adult,Basking,61,3,Kip Trail,Alive,-75.15168727,44.58290032
+468,Active,Bullfrog,Jevenile,Basking,61,1,Kip Trail,Alive,-75.15168727,44.58290032
+469,Active,Northern Leopard Frog,Jevenile,Basking,61,1,Saddlemire Trail,Alive,-75.14362045,44.5912326
+470,Active,Bullfrog,Adult,Basking,61,1,Kip Trail,Alive,-75.15245908,44.58283348
+471,Active,Bullfrog,Jevenile,Basking,61,1,Kip Trail,Alive,-75.15310608,44.5828585
+472,Active,Wood Frog,Adult,Basking ,61,1,Saddlemire Trail,Alive,-75.1381598,44.5880256
+473,Active,Northern Leopard Frog,Adult,Moving,59,1,Golf Course,Alive,-75.1439771,44.5940278
+474,Active,Northern Leopard Frog,Adult,Moving,61,1,Saddlemire Trail,Alive,-75.13880882,44.5893556
+475,Active,Pickeral Frog,Adult,Sitting in underbrush,61,1,Town Houses,Alive,-75.15642463,44.58815686
+476,Active,Northern Leopard Frog,Adult,Basking,61,1,Golf Course,Alive,-75.15541391,44.58872827
+477,Active,Northern Leopard Frog,Adult,Basking near sand pit,60,1,Golf Course,Alive,-75.15551139,44.58885143
+478,Active,Unidentified Species,Unkown,"Basking, moving, etc.",62,0,Avenue of the Elms,Alive,-75.14949798,44.59332233
+479,Active,Bullfrog,Jevenile,Basking near side of stream,64,1,Golf Course,Alive,-75.15494943,44.59222008
+480,Auditory,Northern Spring Peeper,Unkown,Calling,61,1,Golf Course,Alive,-75.15383691,44.59275401
+481,Auditory,Northern Spring Peeper,Unkown,Calling,61,1,Golf Course,Alive,-75.15430086,44.59449919
+482,Active,Bullfrog,Tadpole,Moving,61,1,Golf Course,Alive,-75.15087092,44.5952758
+483,Active,Bullfrog,Adult,Moving,61,1,Golf Course,Alive,-75.15084232,44.59528418
+484,Active,Bullfrog,Metamorph,Moving ,61,3,Golf Course,Alive,-75.15084005,44.59528183
+485,Active,Bullfrog,Adult,Basking,61,1,Golf Course,Alive,-75.15074605,44.59537492
+486,Active,Northern Leopard Frog,Adult,Moving,61,1,Golf Course,Alive,-75.15073353,44.59532095
+487,Active,Bullfrog,Adult,Moving,61,1,Golf Course,Alive,-75.1505577,44.59525523
+488,Active,Pickeral Frog,Adult,Basking,61,1,Golf Course,Alive,-75.15085212,44.5952689
+489,Active,Northern Leopard Frog,Adult,Basking,61,1,Golf Course,Alive,-75.14999183,44.59548108
+490,Active,Northern Leopard Frog,Adult,Basking,61,1,Golf Course,Alive,-75.14882642,44.59558395
+491,Active,Green Frog,Adult,Basking,61,1,Golf Course,Alive,-75.14887552,44.59552587
+492,Active,Mink Frog,Adult,Basking,61,1,Golf Course,Alive,-75.14898767,44.59533017
+493,Active,Bullfrog,Adult,Basking,61,1,Golf Course,Alive,-75.14835495,44.5953682
+494,Active,Bullfrog,Adult,Basking,61,1,Golf Course,Alive,-75.14831338,44.59551572
+495,Active,Bullfrog,Adult,Basking,61,1,Golf Course,Alive,-75.14830652,44.59547652
+496,Active,Bullfrog,Tadpole,Basking,61,1,Golf Course,Alive,-75.1483858,44.59555422
+497,Auditory,Northern Spring Peeper,Unkown,Calling,53,1,Golf Course,Alive,-75.15394985,44.59309883
+498,Auditory,Northern Spring Peeper,Adult,Calling,59,2,Golf Course,Alive,-75.15623622,44.59249634
+499,Auditory,American Toad,Adult,Calling,59,1,Golf Course,Alive,-75.15439496,44.59221785
+500,Auditory,Pickeral Frog,Adult,Calling,59,1,Golf Course,Alive,-75.15492629,44.5913857
+501,Active,Bullfrog,Jevenile,Basking,59,1,Golf Course,Alive,-75.15309677,44.59097784
+502,Active,Green Frog,Jevenile,Basking,59,1,Golf Course,Alive,-75.15294104,44.59136923
+503,Active,Northern Leopard Frog,Jevenile,Basking,59,1,Golf Course,Alive,-75.15256955,44.59107926
+504,Active,Bullfrog,Adult,Basking,59,1,Golf Course,Alive,-75.15298136,44.59109937
+505,Active,Bullfrog,Jevenile,Basking,61,3,Kip Trail,Alive,-75.15167956,44.58317064
+506,Active,Bullfrog,Metamorph,Basking,61,1,Kip Trail,Alive,-75.15169909,44.58313845
+507,Active,Green Frog,Jevenile,Basking,61,2,Kip Trail,Alive,-75.15169909,44.58313845
+508,Active,Green Frog,Adult,Basking,61,1,Kip Trail,Alive,-75.15169323,44.58315475
+509,Active,Unidentified Species,Unkown,Basking,61,2,Kip Trail,Alive,-75.15123323,44.58315236
+510,Active,Unidentified Species,Unkown,Basking,61,2,Kip Trail,Alive,-75.15028255,44.58377183
+511,Active,Bullfrog,Unkown,Basking,61,1,Kip Trail,Alive,-75.14977804,44.58378235
+512,Active,Bullfrog,Jevenile,Basking,61,2,Kip Trail,Alive,-75.14971401,44.58395657
+513,Active,Northern Leopard Frog,Jevenile,Basking,61,1,Kip Trail,Alive,-75.14335457,44.58447247
+514,Active,Bullfrog,Jevenile,Basking,61,1,Kip Trail,Alive,-75.15162491,44.58306817
+515,Active,Green Frog,Jevenile,Basking,61,1,Kip Trail,Alive,-75.15166707,44.58310668
+516,Active,Bullfrog,Jevenile,Basking,61,1,Kip Trail,Alive,-75.15156632,44.5830846
+517,Active,Bullfrog,Tadpole,Moving,61,1,Kip Trail,Alive,-75.15105578,44.58342566
+518,Active,Bullfrog,Jevenile,Basking,61,1,Kip Trail,Alive,-75.15116064,44.58324578
+519,Active,Bullfrog,Adult,Basking,61,1,Kip Trail,Alive,-75.1497736,44.58396956
+520,Active,Bullfrog,Adult,Basking,61,7,Kip Trail,Alive,-75.14980042,44.58395745
+521,Active,Bullfrog,Adult,Basking,61,3,Kip Trail,Alive,-75.14945174,44.58402144
+522,Active,Bullfrog,Adult,Basking,61,1,Kip Trail,Alive,-75.14935652,44.58408753
+523,Active,Green Frog,Adult,Basking,61,1,Kip Trail,Alive,-75.14935652,44.58408753
+524,Active,Blue Spotted Salamander,Adult,Basking,61,1,Kip Trail,Alive,-75.14837994,44.58365398
+525,Incidental,Northern Leopard Frog,Adult,Basking on pavement,65,1,Cement Walkway,alive,-75.15762518,44.58955188
+526,Auditory,Northern Spring Peeper,Adult,"Basking, moving, etc.",59,1,Field,Unknown,-75.16535858,44.58292501
+527,Active,American Toad,Adult,Calling,58,1,Saddlemire,Alive,-75.15513425,44.5926087
+528,Auditory,American Toad,Adult,Calling,58,1,Saddlemire,Alive,-75.14609663,44.59356504
+529,Auditory,Northern Leopard Frog,Adult,Calling,58,1,Saddlemire,Alive,-75.14674899,44.59215872
+530,Auditory,Northern Spring Peeper,Unkown,"Basking, moving, etc.",71,1,XC Trail,Unknown,-75.15862866,44.58399998
+531,Active,Bullfrog,Adult,Thermoregulating,71,1,Little River,Unknown,-75.16117944,44.58117549
+532,,Green Frog,Adult,"Basking, moving, etc.",70,1,XC Trail,Alive,-75.16136225,44.58112399
+533,Active,American Toad,Adult,"Basking, moving, etc.",69,1,Nature Trail,Alive,-75.15937859,44.58290271
+534,Active,Northern Spring Peeper,Adult,Calling,67,1,Facilities,Alive,-75.15717474,44.58633673
+535,Auditory,Northern Spring Peeper,Adult,Calling,67,1,Facilities,Alive,-75.15672287,44.5882064
+536,Active,Northern Leopard Frog,Adult,Moving,69,1,Nature Trail,Alive,-75.15859078,44.58424629
+537,Auditory,Northern Spring Peeper,Adult,"Basking, moving, etc.",55,1,Golf Course,Alive,-75.15772099,44.59167802
+538,Auditory,Northern Spring Peeper,Adult,Calling,55,1,Saddlemire Trail,Alive,-75.14493892,44.59197511
+539,Active,Unidentified Species,Unkown,,72,1,Saddlemire Trail,Dead,-75.14260665,44.59118093
+540,Incidental,Unidentified Species,Unkown,"Basking, moving",69,2,Johnson,Alive,-75.16144406,44.58746854
+541,Incidental,Unidentified Species,Adult,climbing a tree,70,1,Johnson,Alive,-75.16102895,44.5874036
+542,Incidental,Unidentified Species,Adult,climbing a tree,70,1,Grass,Alive,-75.15927229,44.58722092
+543,Active,Unidentified Species,Unkown,flying,69,1,Facility pond,Alive,-75.15914809,44.58627068
+544,Active,Unidentified Species,Unkown,Jumping,70,1,Little River,Alive,-75.15840091,44.58393234
+545,Incidental,Unidentified Species,Metamorph,jumping,69,1,Lacrosse Field,Alive ,-75.15925371,44.58722029
+546,Active,Unidentified Species,Jevenile,"Basking, moving, etc.",69,1,Facilities Pond,Alive,-75.15879999,44.58627379
+547,Active,Green Frog,Jevenile,Moving ,70,2,,Alive,-75.15838163,44.58363528
+548,Active,Pickeral Frog,Jevenile,"Basking, moving, etc.",70,2,Facility pond,Alive,-75.15795819,44.586189
+549,Active,Northern Leopard Frog,Jevenile,Jumping ,70,3,Behind Facilities ,Alive,-75.15576339,44.58733301
+550,Active,Unidentified Species,Unkown,flying,70,3,Brown,Alive,-75.16043002,44.58847961
+551,Incidental,Unidentified Species,Unkown,in a tree,70,1,Lacrosse Field,Alive,-75.16041567,44.58708882
+552,Incidental,Unidentified Species,Adult,in a tree,70,1,By parking lot,Alive,-75.1603846,44.58705601
+553,Active,Northern Leopard Frog,Jevenile,Jumping,70,1,Behind Facilities,Alive,-75.15564211,44.58716076
+554,Active,Unidentified Species,Metamorph,Jumping,64,1,XC Trail,Alive,-75.16038375,44.5822542
+555,Active,Wood Frog,Metamorph,"Basking, moving, etc.",64,1,,alive,-75.16050219,44.58216565
+556,Active,American Toad,Metamorph,jumping,64,1,XC Trail,Alive,-75.16053085,44.58194231
+557,Active,American Toad,Adult,thermoregulating,64,1,XC Trail,Alive,-75.16055415,44.58219909
+558,Active,American Toad,Adult,jumpinf,64,1,,alive,-75.15993255,44.58280561
+559,Other,Northern Leopard Frog,Jevenile,moving,60,1,Kip Trail,alive,-75.1530127,44.58256073
+560,Other,Northern Leopard Frog,Unkown,"Basking, moving, etc.",62,1,Kip Trail,alive,-75.15308009,44.58253634
+561,Other,Northern Leopard Frog,Unkown,thermoregating,62,1,Kip Trail,Alive,-75.15741216,44.57769438
+562,Other,Pickeral Frog,Adult,thermoregulating,62,1,Kip Trail,Alive,-75.15287348,44.58265197
+563,Other,Unidentified Species,Unkown,Moving,62,2,Kip Trail,Alive,-75.15284901,44.58262799
+564,Other,Green Frog,Jevenile,swimming ,62,6,Kip Trail,Alive,-75.15157102,44.58306176
+565,Other,Unidentified Species,Unkown,thermoregulating ,62,1,Kip Trail,Alive,-75.15109434,44.58319017
+566,Other,Pickeral Frog,Adult,thermoregulating ,62,1,Kip Trail,Alive,-75.15096685,44.58329452
+567,Other,Northern Leopard Frog,Unkown,thermoregulating ,62,1,Kip Trail,Alive,-75.15085705,44.58325735
+568,Other,Pickeral Frog,Jevenile,thermoregulating,65,4,Kip Trail,Alive,-75.15086744,44.58328216
+569,Other,Green Frog,Adult,"Basking, moving, etc.",59,3,Nature Trail,Alive,-75.1583689,44.58407326
+570,Other,Unidentified Species,Adult,dead,59,1,Open Field,Dead,-75.16384283,44.5825753
+571,Other,Unidentified Species,Adult,very dead,59,1,XC Trail,Dead,-75.15935996,44.58385198
+572,Active,Unidentified Species,Jevenile,Jumping ,65,1,Kip Trail,Alive,-75.15514576,44.5834781
+573,Active,Northern Leopard Frog,Adult,jumping ,65,1,Kip Trail,Alive,-75.15451117,44.58354771
+574,Active,Unidentified Species,Adult,Thermoregulating,65,1,Kip Trail,Alive ,-75.15462865,44.58347464
+575,Active,Northern Leopard Frog,Adult,jumping,67,6,Kip Trail,Alive ,-75.15443771,44.58344731
+576,Active,Northern Leopard Frog,Adult,Thermoregulating,0,1,Lacrosse Field,Alive,-75.16061962,44.5850691
+577,Incidental,American Toad,Adult,foraging (worms),65,1,Cement Walkway,Alive,-75.16123588,44.58838042
+578,Active,Pickeral Frog,Adult,"Basking, moving, etc.",64,1,Golf Course,Alive,-75.15757565,44.5923827
+579,Active,Northern Leopard Frog,Adult,jumping,64,1,,alive,-75.16041912,44.58515442
+580,Active,American Toad,Jevenile,Sitting,65,1,Saddlemire Trail,Alive,-75.15676972,44.59246399
+581,Other,Northern Leopard Frog,Adult,thermoregulating ,65,1,Town Houses,Alive,-75.15617426,44.58846676
+582,Active,Green Frog,Adult,tr,64,1,Golf Course,Alive,-75.15521146,44.59196511
+583,Active,Green Frog,Adult,tr,64,1,Golf Course,Alive,-75.15508819,44.59188632
+584,Active,American Toad,Adult,thermo regulating/eating bugs,66,1,Other,Alive,-75.15867481,44.59142932
+585,Other,Northern Leopard Frog,Adult,Thermoregulating  ,65,1,Town Houses,Alive ,-75.15598248,44.58858564
+586,Active,Bullfrog,Adult,Sitting,65,1,Avenue of the Elms,Alive,-75.1555924,44.59278749
+587,Active,Green Frog,Jevenile,"Basking, moving, etc.",64,2,Golf Course,Alive,-75.15504714,44.59186767
+588,Active,Gray Treefrog,Unkown,Sitting,65,1,Avenue of the Elms,Alive,-75.15547028,44.59270597
+589,Active,American Toad,Metamorph,thermoregulating,64,1,,alive,-75.16124357,44.58461136
+590,Other,Northern Leopard Frog,Adult,thermoregulating,65,1,Town Houses,Alive ,-75.15607754,44.58875328
+591,Active,Green Frog,Jevenile,Thermoregulating,64,1,Golf Course,Alive,-75.15489956,44.5916878
+592,Active,Northern Leopard Frog,Adult,Sitting,65,1,Avenue of the Elms,Alive,-75.15474164,44.59283807
+593,Other,Northern Leopard Frog,Adult,thermoregulating ,65,1,Town Houses,Alive,-75.15614817,44.58892026
+594,Other,Northern Leopard Frog,Adult,thermoregulating ,65,1,Town Houses,Alive,-75.15617722,44.58896157
+595,Active,Unidentified Species,Unkown,"Basking, moving, etc.",64,10,Golf Course,Alive,-75.15490276,44.59167562
+596,Other,Northern Leopard Frog,Adult,thermoregulating,65,1,Town Houses,Alive,-75.15618641,44.58896503
+597,Active,Northern Leopard Frog,Adult,thermoregulating,64,1,,alive,-75.16130106,44.58323602
+598,Other,Northern Leopard Frog,Adult,thermoregulating,65,1,Town Houses,Alive,-75.1568008,44.58962092
+599,Active,American Toad,Jevenile,Jumping,0,,Avenue of the Elms,Alive,-75.15243737,44.59307549
+600,Active,Northern Leopard Frog,Adult,jumpinf,64,1,,alive ,-75.16053865,44.58339599
+601,Active,Wood Frog,Unkown,Thermoregulating,64,2,Golf Course,Alive,-75.15387713,44.59144186
+602,Other,Northern Leopard Frog,Adult,Thermoregulating  ,65,1,Town Houses,Alive,-75.1575994,44.58961163
+603,Active,Northern Leopard Frog,Unkown,"Basking, moving, etc.",64,1,Golf Course,Alive,-75.15352903,44.59087516
+604,Active,Pickeral Frog,Unkown,Thermoregulating,64,1,Golf Course,Alive,-75.15354169,44.59086879
+605,Active,Green Frog,Adult,movinf,64,1,,alive,-75.15951765,44.58382384
+606,Active,Northern Leopard Frog,Unkown,Thermoregulating,64,1,Golf Course,Alive,-75.1535214,44.59079704
+607,Active,Unidentified Species,Adult,jumping,65,2,,Unknown,-75.15902027,44.58401629
+608,Active,Northern Leopard Frog,Adult,Thermoregulating,64,1,Golf Course,Alive,-75.15368233,44.59082294
+609,Active,Unidentified Species,Adult,Thermoregulating,64,1,Golf Course,Alive,-75.15382583,44.59073941
+610,Active,Gray Treefrog,Jevenile,Climbing,65,1,Avenue of the Elms,Alive,-75.15510097,44.59275937
+611,Active,Green Frog,Adult,Thermoregulating,64,3,Golf Course,Alive,-75.15400772,44.59076586
+612,Active,Wood Frog,Jevenile,moving,64,1,,alive ,-75.15915656,44.58483155
+613,Active,American Toad,Unkown,Sitting,65,1,Avenue of the Elms,Alive,-75.15669747,44.59256151
+614,Active,Northern Leopard Frog,Unkown,Thermoregulating,64,1,Golf Course,Alive,-75.15470828,44.59071498
+615,Active,Green Frog,Adult,Thermoregulating,64,1,Golf Course,Alive,-75.1548646,44.59058774
+616,Active,Wood Frog,Jevenile,"Basking, moving, etc.",64,2,Golf Course,Alive,-75.1549703,44.59043695
+617,Active,Pickeral Frog,Adult,Thermoregulating,64,2,Golf Course,Alive,-75.15556223,44.59002615
+618,,Green Frog,Jevenile,jumping,69,1,,alive ,-75.15922507,44.59248639
+619,Active,Green Frog,Adult,swimming,69,4,,alive,-75.15491942,44.59156985
+620,Active,Northern Leopard Frog,Jevenile,"Basking, moving, etc.",69,1,Golf Course,alive,-75.15245405,44.5911637
+621,Active,Green Frog,Adult,swimmig,69,1,Golf Course,alive ,-75.1528532,44.59091459
+622,Active,Green Frog,Adult,"Basking, moving, etc.",69,1,Golf Course,alive ,-75.15165802,44.59169596
+623,Active,Green Frog,Adult,swimming ,69,1,Golf Course,Alive,-75.15143573,44.59177692
+624,Active,Pickeral Frog,Adult,"Basking, moving, etc.",60,4,Behind Facilities,Alive,-75.15897919,44.58615988
+625,Active,Unidentified Species,Unkown,"Basking, moving, etc.",60,1,Behind Facilities,Alive,-75.1580799,44.58638849
+626,Active,Bullfrog,Unkown,moving ,68,1,Kip Trail,Alive,-75.15359952,44.58297957
+627,Active,Green Frog,Metamorph,swimming ,68,3,Kip Trail,Alive,-75.15363514,44.58295195
+628,Active,Green Frog,Jevenile,swimming ,68,1,Kip Trail,Alive,-75.15370538,44.58305782
+629,Active,Unidentified Species,Tadpole,Swimming,68,1,Kip Trail,Alive,-75.15372458,44.58310585
+630,Active,Bullfrog,Metamorph,swimming,68,3,Kip Trail,Alive,-75.15372081,44.58293498
+631,Active,Bullfrog,Adult,siting ,68,1,Kip Trail,Unknown,-75.1537074,44.58280401
+632,Active,Green Frog,Adult,Thermoregulating,68,3,Kip Trail,Alive,-75.15171569,44.58313485
+633,Active,Wood Frog,Adult,Jumping,71,2,XC Trail,Unknown,-75.16033807,44.58212064
+634,Active,Wood Frog,Adult,"Basking, moving, etc.",71,1,XC Trail,Unknown,-75.16148379,44.58119762
+635,Active,Green Frog,Adult,In the river,0,1,Little River,Unknown,-75.16173265,44.58110823
+636,Active,Northern Leopard Frog,Jevenile,hopping off trail,62,1,Kip Trail,Alive,-75.15066647,44.5834529
+637,Active,Northern Leopard Frog,Adult,"Basking, moving, etc.",62,1,Kip Trail,Alive,-75.15024403,44.58375593
+638,Active,Wood Frog,Jevenile,Moving,62,1,Kip Trail,Alive,-75.14980574,44.58397702
+639,Other,Green Frog,Jevenile,sitting thermorégulating,57,3,Golf Course,Alive ,-75.15509737,44.59169792
+640,Other,Northern Spring Peeper,Adult,"Basking, moving, etc.",57,1,Golf Course,Alive,-75.15509829,44.59153389
+641,Other,Green Frog,Jevenile,thermoregulating ,57,1,Golf Course,Alive ,-75.15502243,44.5915952
+642,Other,Green Frog,Adult,in the water ,57,1,Golf Course,Alive,-75.15510298,44.5915745
+643,Other,Green Frog,Jevenile,hopping ,57,1,Golf Course,Alive,-75.15508882,44.59155061
+644,Other,Green Frog,Jevenile,thermoregulating,56,1,Golf Course,alive,-75.15508588,44.59154818
+645,Other,Green Frog,Jevenile,thermoregulating,57,1,Golf Course,Alive,-75.15509753,44.59152593
+646,Other,Green Frog,Adult,in the water ,57,1,Golf Course,Alive ,-75.15509753,44.59152593
+647,Incidental,Northern Leopard Frog,Jevenile,thermoregulating and hopping ,68,30,Kip Trail,Alive ,-75.15407079,44.58301599
+648,Active,Green Frog,Jevenile,sitting in or by the water,69,5,River,Alive,-75.15831073,44.58426163
+649,Active,Bullfrog,Jevenile,Sitting in water,69,3,River,Alive,-75.15833069,44.58398729
+650,Active,Green Frog,Unkown,sitting ,69,10,River,Alive,-75.15847191,44.58393299
+651,Other,American Toad,Adult,TR,64,1,Other,Alive,-75.16726946,44.58806435
+652,Other,Wood Frog,Metamorph,TR,64,1,XC Trail,Unknown,-75.16081324,44.5819848
+653,Other,Wood Frog,Metamorph,"Basking, moving, etc.",64,1,XC Trail,Unkown,-75.16134126,44.5815161
+654,Other,American Toad,Jevenile,"Basking, moving, etc.",64,1,XC Trail,Unkown,-75.16052446,44.5821873
+655,Other,American Toad,Adult,jumping,64,1,XC Trail,Unknown,-75.1591717,44.58302676
+656,Other,American Toad,Adult,jumping,64,1,XC Trail,Unknown,-75.15877499,44.58339203
+657,Active,Green Frog,Jevenile,Thermos regulating ,59,2,Facilities Pond,Alive,-75.15767623,44.58605619
+658,Active,Unidentified Species,Unkown,"Basking, moving, etc.",59,1,Behind Facilities,Alive,-75.15758713,44.58618758
+659,Other,Northern Spring Peeper,Unkown,"Basking, moving, etc.",58,1,XC Trail,Unknown,-75.15877158,44.58297143
+660,Active,Northern Spring Peeper,Adult,jumping ,60,1,XC Trail,Alive,-75.15902278,44.58334563
+661,Other,American Toad,Adult,moving ,61,1,XC Trail,Alive ,-75.15852373,44.5830896
+662,Incidental,Green Frog,Adult,swimming,59,2,Kip Trail,alive,-75.15168007,44.58318602
+663,,Green Frog,Unkown,Thermoregulating,61,1,XC Trail,Alive,-75.1585489,44.58302577
+664,Other,Wood Frog,Jevenile,moving ,61,1,XC Trail,Alive,-75.15882422,44.58289233
+665,Incidental,Northern Leopard Frog,Jevenile,"Basking, moving, etc.",59,2,Kip Trail,Alive,-75.15098421,44.58331055
+666,Incidental,Wood Frog,Adult,thermo regulating ,59,1,Kip Trail,Alive,-75.14906178,44.58373879
+667,Active,Northern Redback Salamander,Adult,"Basking, moving, etc.",59,1,Kip Trail,Alive,-75.14888869,44.58370932
+668,Other,Wood Frog,Jevenile,thermo,57,1,Kip Trail,Alive ,-75.14843761,44.58382447
+669,Other,Northern Leopard Frog,Adult,Unknown,55,1,Road,Dead,-75.15645817,44.58297685
+670,Active,Green Frog,Adult,swimming,70,2,Saddlemire Trail,alive,-75.1553697,44.59256017
+671,Active,Northern Spring Peeper,Adult,jumping,70,1,Saddlemire Trail,alive,-75.1519503,44.59271687
+672,Incidental,Bullfrog,Adult,TR,73,1,Little River,Alive,-75.15818706,44.58349669
+673,Incidental,Green Frog,Unkown,TR,73,2,Little River,Unknown,-75.15807614,44.5834171
+674,Active,Green Frog,Unkown,Thermoregulating,73,1,Little River,Alive,-75.15832976,44.58327794
+675,Active,American Toad,Adult,basking,73,1,Little River,Alive,-75.15832292,44.58382465
+676,Active,Bullfrog,Adult,Basking,73,2,River,Alive,-75.15828643,44.58406476
+677,Active,Green Frog,Jevenile,Basking,72,10,Little River,Alive ,-75.15810262,44.5827994
+678,Active,Green Frog,Adult,Swimming ,72,5,Little River,Alive ,-75.15810655,44.58288821
+679,Active,Green Frog,Unkown,TR,73,1,Little River,Unknown,-75.15796913,44.58313159
+680,Active,Green Frog,Adult,Basking,73,1,Little River,Alive,-75.15838597,44.58382828
+681,Active,Bullfrog,Adult,Thermoregulating,72,1,Little River,Unknown,-75.15819336,44.57982281
+682,Active,Bullfrog,Unkown,Thermoregulating,73,,Little River,Alive,-75.15808278,44.58309507
+683,Active,Bullfrog,Adult,Basking,72,1,Little River,Alive ,-75.15811142,44.5829069
+684,Active,Green Frog,Adult,"Basking, moving, etc.",73,2,Little River,Alive,-75.15848031,44.58391487
+685,Active,Bullfrog,Unkown,Thermoregulating,73,,Little River,Alive,-75.15804684,44.58305835
+686,Active,Green Frog,Adult,"Basking, moving, etc.",73,2,River,Alive,-75.15780862,44.58445457
+687,Active,Bullfrog,Jevenile,"Basking, moving, etc.",72,2,Little River,Alive ,-75.15798745,44.58277598
+688,Active,Green Frog,Adult,Basking,72,2,Little River,Alive ,-75.15802818,44.58270988
+689,Active,Green Frog,Jevenile,thermoregulating,73,2,Little River,Alive,-75.15842021,44.58395733
+690,Active,Green Frog,Unkown,Thermoregulating,73,,Little River,Alive,-75.15796809,44.58306454
+691,Active,Bullfrog,Jevenile,Basking ,71,2,Bank of Grasse River,Alive ,-75.15754625,44.58466573
+692,Active,Green Frog,Adult,Basking,72,4,Little River,Alive ,-75.15801092,44.58278038
+693,Active,Green Frog,Adult,basking,73,1,,Alive,-75.15838765,44.58397341
+694,Active,Unidentified Species,Unkown,"Basking, moving, etc.",72,4,Little River,Alive ,-75.15804252,44.58286788
+695,Active,Reptile,Jevenile,swimming,71,1,River,Alive,-75.15794665,44.58453168
+696,Active,Green Frog,Unkown,Thermoregulating,73,5,Little River,Alive,-75.15816347,44.58297491
+697,Active,Unidentified Species,Jevenile,"Basking, moving, etc.",73,1,Little River,Alive,-75.15837023,44.58401297
+698,Active,Bullfrog,Unkown,Thermoregulating,73,,Little River,Alive,-75.15803034,44.58296609
+699,Active,Bullfrog,Adult,Basking,72,2,Little River,Alive ,-75.15808493,44.58279551
+700,Active,Green Frog,Unkown,Thermoreulating,73,,Little River,Alive,-75.15813071,44.58307242
+701,Active,Bullfrog,Adult,"Basking, moving, etc.",73,1,Little River,Alive,-75.15833434,44.58402577
+702,Active,Bullfrog,Jevenile,basking ,71,6,River,Alive,-75.15807162,44.58358533
+703,Active,Bullfrog,Adult,sitting on edge of bank ,0,16,Bank of Grasse River,Alive ,-75.15786778,44.58439277
+704,Active,Green Frog,Jevenile,"Basking, moving, etc.",73,2,Little River,Alive,-75.15811239,44.58375103
+705,Active,Green Frog,Unkown,Thermoregulating,73,,Little River,Alive,-75.15804038,44.58306186
+706,Active,Bullfrog,Adult,sitting on bank of river ,73,6,Bank of Grasse River,Alive ,-75.15764052,44.58455768
+707,Active,Unidentified Species,Unkown,Unknown,73,1,Little River,Dead,-75.15812417,44.58304017
+708,Active,Bullfrog,Jevenile,Sitting on edge of river or hopping away into water ,72,19,Bank of Grasse River,Alive ,-75.15806888,44.58407779
+709,Active,Green Frog,Unkown,Thermoregulating,73,,Little River,Alive,-75.15808413,44.58304833
+710,Active,Bullfrog,Adult,"Basking,",72,1,Little River,Alive ,-75.15823832,44.58257665
+711,Active,Green Frog,Adult,sitting on edge of stream ,72,5,Bank of Grasse River,Alive ,-75.15809653,44.58450268
+712,Active,Green Frog,Jevenile,sitting on aquatic vegetation ,73,8,Bank of Grasse River,Alive ,-75.15793773,44.58462326
+713,Active,Northern Leopard Frog,Adult,sitting ,54,1,Golf Course,Alive,-75.1651808,44.59235955
+714,Active,Green Frog,Jevenile,In water,62,2,Kip Trail,Alive,-75.15174158,44.58313297
+715,Active,Northern Leopard Frog,Jevenile,Thermoregulating,62,1,Kip Trail,Alive,-75.15101682,44.58325286
+716,Active,Northern Leopard Frog,Jevenile,"Basking, moving, etc.",62,1,Kip Trail,Alive ,-75.15064426,44.5834744
+717,Active,Northern Leopard Frog,Jevenile,"Basking, moving, etc.",62,1,Kip Trail,Alive,-75.14955113,44.58404489
+718,Active,Northern Leopard Frog,Jevenile,"Basking, moving, etc.",62,1,Kip Trail,Alive,-75.14946958,44.58400701
+719,Other,Northern Leopard Frog,Adult,Thermoregulating,75,1,Avenue of the Elms,Alive,-75.1561643,44.59254332
+720,Active,Northern Leopard Frog,Adult,Thermoregulating,75,2,Golf Course,Alive,-75.15524925,44.59211559
+721,Active,Green Frog,Adult,sitting,0,1,Avenue of the Elms,Alive,-75.1553567,44.59250129
+722,Active,Green Frog,Adult,"Basking, moving, etc.",0,,Avenue of the Elms,Alive,-75.15533919,44.59244132
+723,Active,Green Frog,Adult,In water,0,,Avenue of the Elms,Alive,-75.15535159,44.59272949
+724,Active,Green Frog,Adult,Sitting,0,4,Avenue of the Elms,Alive,-75.15535159,44.59272949
+725,Active,Green Frog,Adult,"Basking, moving, etc.",0,2,Golf Course,Alive,-75.15183616,44.59272949
+726,Active,Northern Leopard Frog,Adult,"Basking, moving, etc.",0,1,Avenue of the Elms,Alive,-75.15639396,44.59246202
+727,Other,Green Frog,Adult,swimming,75,1,Bank of Grasse River,Alive,-75.16621194,44.5832615
+728,Other,Green Frog,Adult,thermo,75,1,Bank of Grasse River,Alive,-75.16695963,44.58303252
+729,Other,Unidentified Species,Adult,hopping ,75,1,Bank of Grasse River,Alive,-75.16701388,44.58306023
+730,Other,American Toad,Metamorph,"Basking, moving, etc.",75,1,XC Trail,Alive ,-75.16548288,44.58236333
+731,Active,Bullfrog,Unkown,Thermoregulating,68,1,Saddlemire Trail,Alive,-75.15633998,44.59253276
+732,Active,Unidentified Species,Unkown,TR,68,1,Saddlemire Trail,Alive,-75.15596164,44.59251234
+733,Active,Bullfrog,Unkown,Thermoregulating,68,,Avenue of the Elms,Alive,-75.15564546,44.59255547
+734,Active,Pickeral Frog,Unkown,Thermoregulating,68,1,Golf Course,Alive,-75.15365455,44.5910028
+735,Active,Northern Leopard Frog,Unkown,"Basking, moving, etc.",68,,Golf Course,Alive,-75.1534569,44.59086626
+736,Active,Pickeral Frog,Unkown,"Basking, moving, etc.",68,1,Golf Course,Alive,-75.15328404,44.59088829
+737,Active,Northern Leopard Frog,Unkown,Thermoregulating,68,1,Golf Course,Alive,-75.15314372,44.59089156
+738,Active,Bullfrog,Unkown,Thermoregulating,68,1,Golf Course,Alive,-75.15314934,44.59087074
+739,Active,Bullfrog,Unkown,Thermoregulating,68,3,Golf Course,Alive,-75.15300634,44.59090774
+740,Incidental,American Toad,Adult,moving ,67,1,Chapel,Alive,-75.16369142,44.5912673
+741,Active,Green Frog,Adult,swimming ,55,1,Saddlemire Trail,Alive,-75.13998731,44.59061079
+742,Active,Pickeral Frog,Adult,Thermoregulating ,55,1,Town Houses,Alive ,-75.15553882,44.5886036
+743,Active,Green Frog,Unkown,Thermonregulating,55,1,Golf Course,Alive,-75.15460644,44.59066733
+744,Active,Northern Leopard Frog,Jevenile,"Basking, moving, etc.",0,1,Golf Course,Alive,-75.1525232,44.59106245
+745,Auditory,Northern Spring Peeper,Unkown,calling,55,1,Saddlemire Trail,Alive,-75.14421741,44.59168389
+746,Road,Northern Leopard Frog,Jevenile,dead,55,1,Other,Dead,-75.13915172,44.59251525
+747,,Gray Treefrog,Unkown,Thermoregulating,55,,Saddlemire Trail,Alive,-75.14496055,44.59212268
+748,Road,Northern Leopard Frog,Adult,dead,55,1,Other,Dead,-75.1397574,44.59286283
+749,Road,Pickeral Frog,Jevenile,dead,55,1,Other,Dead,-75.14009154,44.59305398
+750,Active,American Toad,Adult,moving,55,1,Avenue of the Elms,Alive,-75.14729968,44.59368599
+751,Active,Northern Leopard Frog,Adult,Thermoregulating,55,1,Golf Course,Alive,-75.15417125,44.59074444
+752,Active,Bullfrog,Adult,"Basking, moving, etc.",0,1,Facilities Pond,Alive,-75.15934087,44.58618536
+753,Active,Wood Frog,Jevenile,hopping,64,1,XC Trail,Alive,-75.16050622,44.58216664
+754,Active,Wood Frog,Adult,hopping,64,2,XC Trail,Alive,-75.16089052,44.58195435
+755,Other,Northern Spring Peeper,Adult,thermoregulating ,51,1,Town Houses,Alive,-75.1567398,44.58864571
+756,Incidental,Gray Treefrog,Unkown,calling,51,1,Golf Course,Alive,-75.15613525,44.59047854
+757,Incidental,Gray Treefrog,Unkown,Calling,51,1,Golf Course,Alive,-75.15697274,44.59220621
+758,Other,American Toad,Jevenile,thermoregulating ,51,1,Avenue of the Elms,Alive,-75.15778374,44.59233076
+759,Other,Unidentified Species,Unkown,jumping into water,58,3,Facilities Pond,Alive,-75.15807388,44.58599403
+760,Active,Northern Spring Peeper,Unkown,"Basking, moving, etc.",69,4,Avenue of the Elms,Alive ,-75.15581259,44.59288292
+761,Active,Unidentified Species,Unkown,Basking,69,3,Avenue of the Elms,Alive ,-75.15504347,44.59305252
+762,Other,American Toad,Metamorph,Hiding in leaf litter ,57,1,XC Trail,Alive ,-75.15908573,44.58322872
+763,Other,American Toad,Metamorph,Hiding under litter layer ,57,1,XC Trail,Alive ,-75.15919721,44.58304772
+764,Active,Northern Leopard Frog,Adult,"Basking, moving, etc.",62,1,Other,Alive,-75.13818057,44.59059289
+765,Active,Northern Leopard Frog,Jevenile,Basking in sun on path,62,1,Other,Alive ,-75.13804908,44.59066501
+766,Other,Green Frog,Adult,thermoregulating,64,1,Saddlemire Trail,Alive,-75.14003743,44.59063318
+767,Active,Green Frog,Unkown,Swimming,52,1,Golf Course,Alive,-75.15423905,44.59074298
+768,Active,Green Frog,Unkown,"Basking, moving, etc.",52,1,Golf Course,Alive,-75.1550549,44.59175397
+769,Active,Green Frog,Unkown,Thermoregulating,52,1,Golf Course,Alive,-75.15504233,44.59172971
+770,Active,Wood Frog,Adult,hiding,54,1,Kip Trail,Alive,-75.14281453,44.5848539
+771,Incidental,Green Frog,Adult,Hiding ,0,1,Facilities Pond,Alive ,-75.15930139,44.58597849
+772,Active,Northern Leopard Frog,Adult,Jumping into water,57,1,Saddlemire Trail,Alive,-75.15535744,44.59253367
+773,Active,Bullfrog,Adult,swimming,49,1,Avenue of the Elms,Alive,-75.15012179,44.59323598
+774,Active,Green Frog,Unkown,Thermoregulating,49,2,Avenue of the Elms,Alive,-75.15011395,44.59333693
+775,Active,Unidentified Species,,Jumped into water,49,2,Avenue of the Elms,Alive,-75.15010163,44.59335899
+776,Active,Bullfrog,Adult,"Basking, moving, etc.",64,1,Avenue of the Elms,Alive ,-75.15025346,44.59326318
