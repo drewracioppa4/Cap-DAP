@@ -101,8 +101,50 @@ DF <- DF %>%
 
 Now that the data is cleaned up we can start our Hypothesis and our Statistical model plan. 
 
+###Relationship 1
+
+##I will be exploring the relationship between Lifestage (x) and Air_Temp_F (y) 
+
+##I predict that most Juvenile frogs will be found in higher temperatures, because they hatch throughout the summer, when the weather is warmer. When the weather cools down in the autumn months most frogs are adults or subadults. 
 
 
+#Here I used GroupBy to find the total means of temperature by Lifestage, I was able to almost prove my relation this way and im afraid its much too simple
+```{r}
+Mean_Stage <- DF %>%
+group_by(Stage) %>%
+summarise(Totals_mean_airtemp = mean(Air_Temp_F))
+view(Totals)
+```
+
+#Here I tried making a table to prove plot my graph
+```{r}
+Relation_1 <- merge(DF, Mean_Stage)
+```
+
+#Here is an atempt at graph number one but no values came out
+```{r}
+ggplot(Relation_1, aes(x = Stage, y = Air_Temp_F))
+```
+
+#Here is attempt two at making a graph, we can see that there are some outliers in this graph but this still fits the Hypothesis that the juvenile frogs were found at higher temperatures, we should run some statistical analysis and take out the outliers.
+```{r}
+ggplot(Relation_1, aes(x = Stage, y = Air_Temp_F,)) +
+geom_boxplot() +
+xlab("Life Stage") +
+ylab("Air Temperature") +
+theme_bw()
+```
+
+Just trying to get a t.test to work
+```{r}
+t.test(Stage ~ Totals_mean_airtemp , data = Relation_1)
+```
+
+Relationship 2
 
 
+Relationship 3 
+```{r}
+t.test(Activity, Air_Temp_F, data = DF)
+```
 
