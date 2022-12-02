@@ -1,0 +1,206 @@
+---
+title: "Bio Statistics Presentation"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+---
+
+For this project I looked at frog surveying Data on St. Lawrence Campus from the year 2017. 
+
+As usual we clear everything and add our packages
+```{r}
+rm (list = ls())
+library(dplyr)
+library(ggplot2)
+library(here)
+library(tidyverse)
+```
+
+Importing Data
+Adding stringsAsFactors = TRUE to change strings to factors and glimpse to double check
+```{r}
+DF <- read.csv(here("Data", "Frog_Data2.csv"), stringsAsFactors = TRUE)
+
+```
+
+Lets look at the data 
+```{r}
+str(DF)
+```
+# Already see some issues that we can fix in formating with colum headings
+
+# I know for a fact that this data was a collective effort of a class, so the data has not been completley standardized, lets check each individual colum to see any discrepency
+
+```{r}
+unique(DF$SurveyType)
+unique(DF$SpeciesName)
+unique(DF$Stage)
+unique(DF$Activity)
+unique(DF$AirTempF)
+unique(DF$Number.of.Individuals)
+unique(DF$SiteSubClass)
+unique(DF$Alive_Dead)
+```
+
+# Survey Type, Species Name, Stage, AirTempF, and Number of Individuals all look good but Activity, SiteSubClass, and Alive_Dead all need to be tweaked. 
+
+# Now lets look at the data table to see if there is any data missing
+```{r}
+view(DF)
+```
+# It appears that these rows all have some missing data, and since there is so much data, I will just remove them to remain consistent 
+1 ,315, 478, 532, 539, 547, 555, 558, 579, 589, 597, 599, 600, 605, 607, 612, 618, 619, 663, 682, 685, 690, 693, 698, 700, 705, 709, 722, 733, 735, 747, 775
+
+```{r}
+DF <- DF %>% na.omit()
+view(DF)
+```
+
+Formating the Data
+
+#Now that we have looked at all the data, we can now 
+1. Standardize the column headers
+2. Turn Characters into factors
+
+#Standardizing the Colum headers
+```{r}
+DF <- DF %>%
+  rename(Survey_Type = "SurveyType", Species_Name = "SpeciesName", Air_Temp_F = "AirTempF", Number_of_Individuals = "Number.of.Individuals", Site = "SiteSubClass", Rel_Humid = "RelHumid", Wind_Speed = "WindSpeed")
+```
+# We changed the different formats to all look similar
+
+
+# Here we are changing any additions or add ons from the "Activities" Colum to match with the rest of the data colum
+```{r}
+DF$Activity <- sub("^Moving.*", "Moving", DF$Activity)
+DF$Activity <- sub("^Basking.*", "Basking", DF$Activity)
+DF$Activity <- sub("^Thermoregulating.*", "Thermoregulating", DF$Activity)
+DF$Activity <- sub("^Swimming.*", "Swimming", DF$Activity)
+DF$Activity <- sub("^Calling.*", "Calling", DF$Activity)
+DF$Activity <- sub("^Feeding.*", "Feeding", DF$Activity)
+DF$Activity <- sub("^Jumping.*", "Jumping", DF$Activity)
+DF$Activity <- sub("^Dead.*", "Dead", DF$Activity)
+
+view(DF)
+```
+
+# Filter Activity Data
+```{r}
+DF <- DF  %>%  
+  filter(Activity =='Moving'|Activity == 'Basking'| Activity == 'Thermoregulating'|Activity == 'Swimming'|Activity == 'Calling'|Activity == 'Feeding'| Activity == 'Jumping'|Activity == 'Dead' ) 
+view(DF)
+```
+# Here we filtered the "Activity" Data to meet the 8 top requirements. 
+
+
+Now that the data is cleaned up we can start our Hypothesis and our Statistical model plan. 
+
+### Relationship 1
+
+## I will be exploring the relationship between Lifestage (x) and Air_Temp_F (y) 
+
+## I predict that most Juvenile frogs will be found in higher temperatures, because they hatch throughout the summer, when the weather is warmer. When the weather cools down in the autumn months most frogs are adults or subadults. 
+
+
+# Here I used GroupBy to find the total means of temperature by Lifestage, I was able to almost prove my relation this way and im afraid its much too simple
+```{r}
+Mean_Stage <- DF %>%
+group_by(Stage) %>%
+summarise(Totals_mean_airtemp = mean(Air_Temp_F))
+view(Mean_Stage)
+```
+
+# Here I tried making a table to prove plot my graph
+```{r}
+Relation_1 <- merge(DF, Mean_Stage)
+```
+
+# Here is an atempt at graph number one but no values came out
+```{r}
+ggplot(Relation_1, aes(x = Stage, y = Air_Temp_F))
+```
+
+# Here is attempt two at making a graph, we can see that there are some outliers in this graph but this still fits the Hypothesis that the juvenile frogs were found at higher temperatures, we should run some statistical analysis and take out the outliers.
+
+```{r}
+DF_new <- DF%>%filter(Wind_Speed<15 & Rel_Humid>25)
+
+ggplot(DF_new, aes(x = Rel_Humid, y = Wind_Speed)) +
+geom_point()+
+  geom_smooth(method = lm, se = FALSE)
+```
+
+```{r}
+LM1 <- lm(Wind_Speed ~ Rel_Humid,
+data = DF_new)
+
+summary(LM1)
+```
+
+Using Auto Pilot 
+#importing ggfortify 
+```{r}
+library(ggfortify)
+autoplot(LM1, smooth.colour = NA)
+
+
+  relation <- lm(DF$Wind_Speed~DF$Rel_Humid)
+```
+
+
+Relationship 2
+
+```{r}
+DF2 <- DF %>%
+  filter(Rel_Humid > 15)
+
+Mean_DFIND <- DF2%>%
+group_by(Species_Name) %>%
+  summarise(Mean_Num = mean(Rel_Humid))
+```
+
+
+```{r}
+ggplot(DF2, aes(x = Species_Name, y = Rel_Humid))+
+  geom_point(alpha = 0.5) +
+  geom_point(data = Mean_DFIND, aes(y = Mean_Num), color = "red", size = 3, shape = 8) +
+  coord_flip() +
+  theme_minimal()
+```
+
+```{r}
+LM2 <- lm(Rel_Humid ~ Species_Name, data = DF2)
+
+anova(LM2)
+```
+```{r}
+summary(LM2)
+```
+
+
+
+Relationship 3 
+
+```{r}
+
+active_vec <- c("Moving", "Jumping")
+passive_vec <- c("Basking", "Thermoregulating")
+
+DF_activity <- DF %>%
+  filter(Activity %in% active_vec |
+           Activity %in% passive_vec) %>%
+  mutate(activity_type = case_when(Activity %in% active_vec ~ "Active",
+                                   Activity %in% passive_vec ~ "Passive")) %>%
+  filter(Air_Temp_F > 25)
+```
+
+```{r}
+ggplot(DF_activity, aes(x = activity_type, y = Air_Temp_F)) +
+  geom_boxplot()
+```
+
+```{r}
+t.test(Air_Temp_F ~ activity_type, data = DF_activity)
+```
+
